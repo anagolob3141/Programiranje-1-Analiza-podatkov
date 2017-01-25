@@ -1,0 +1,2684 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+<link rel="canonical" href="http://www.weatherbase.com/weather/weather.php3?s=63011&cityname=Vienna%2C+Vienna%2C+Austria"/>
+<meta name="keywords" content="Vienna, Vienna, Austria, travel, vacation, weather forecast, current conditions, holiday, flight, hotel, weather data, historical weather data, climatology records, weather records, weather averages, weather normals, climate, weather database, temperature, precipitation">
+<meta name="description" content="Vienna, Austria - Travel and vacation weather averages, current conditions and forecasts.">
+<meta name="city" content="Vienna">
+<meta name="state" content="Vienna ">
+<meta name="country" content="Austria">
+<title>Vienna, Austria Travel Weather Averages (Weatherbase)</title>
+<meta property="og:title" content="Vienna, Austria Travel Weather Averages (Weatherbase)"/>
+<meta property="og:site_name" content="Weatherbase"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://www.weatherbase.com/weather/weather.php3?s=63011&cityname=Vienna-Austria"/>
+<meta property="og:image" content="http://www.weatherbase.com/gr/flags/au-t.png"/>
+<link rel="stylesheet" href="/style/style.css" type="text/css">
+<style type="text/css">html{background:url(/gr/background/25.jpg) no-repeat center center fixed;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;}</style>
+<link rel="stylesheet" href="/style/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen"/>
+<!--[if lt IE 9]>
+<script src="/js/html5shiv.js"></script>
+<![endif]-->
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
+<script src='/js/js/highcharts.js'></script>
+<script type='text/javascript' src='/js/js/themes/grid.js'></script>
+<script type="text/javascript" src="/js/jquery.fancybox.pack.js?v=2.1.5"></script>
+<link href="//fonts.googleapis.com/css?family=Pontano+Sans" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/js/hoverIntent.js"></script>
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/6544/WeatherBase.com/topleader', [728, 90], 'div-gpt-ad-1456349574506-0').addService(googletag.pubads());
+    googletag.defineSlot('/6544/WeatherBase.com/midcontent', [300, 250], 'div-gpt-ad-1456349574506-1').addService(googletag.pubads());
+    googletag.defineOutOfPageSlot('/6544/WeatherBase.com/CMGDB_OOP', 'div-gpt-ad-1456349574506-2').addService(googletag.pubads());
+    googletag.enableServices();
+  });
+</script>
+ 
+</head>
+<div style='z-index:-1; position:fixed; top:0; bottom:0; left:50%; margin-left:-490px; overflow:hidden; width:980px; min-height:100%; background:#ffffff;'>&nbsp;</div>
+ 
+<link href="//fonts.googleapis.com/css?family=Pontano+Sans" rel="stylesheet" type="text/css">
+<!--[if lt IE 7 ]> <body class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <body class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <body class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <body class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <body class=""> <!--<![endif]-->
+ 
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PBN2X9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PBN2X9');</script>
+ 
+<img id="background" src="/gr/background/25.jpg"/>
+ 
+<div class="slide-out-div" style="width:650px; height:350px;">
+<a class="handle" href="#">Content</a>
+<div id=subheaderfont>SEND FEEDBACK</div>
+<br>
+ 
+ 
+<div data-uv-inline="classic_widget" data-uv-mode="full" data-uv-primary-color="#cc6d00" data-uv-link-color="#007dbf" data-uv-default-mode="support" data-uv-forum-id="188771" data-uv-width="625px" data-uv-height="300px"></div>
+<div style="margin-left:250px; margin-top:20px;">
+<a href="/cdn-cgi/l/email-protection#5c3a3939383e3d3f371c2b393d2834392e3e3d2f39723f3331" onClick="recordOutboundLink(this, 'Feedback Tab', 'E-mail'); return false;"><img src="/gr/email-feedback-icon.png" style="width:40px; height:40px;"></a>
+<a href="http://www.twitter.com/wxbase" onClick="recordOutboundLink(this, 'Feedback Tab', 'Twitter'); return false;" target=_new><img src="/gr/twitter-feedback-icon.png" style="width:40px; height:40px;"></a>
+<a href="http://www.facebook.com/Weatherbase" onClick="recordOutboundLink(this, 'Feedback Tab', 'Facebook'); return false;" target=_new><img src="/gr/facebook-feedback-icon.png" style="width:40px; height:40px;"></a>
+</div></div>
+ 
+<div id="container">
+<div id="header-background"></div>
+<div id="header">
+<div id="header-block">
+<table border=0 cellpadding=0 cellspacing=0 width=980 border=0>
+<tr>
+<td width=20><img src=/gr/clear.gif width=20 height=1></td>
+<td width=200><img src=/gr/clear.gif width=200 height=1></td>
+<td width=210><img src=/gr/clear.gif width=210 height=1></td>
+<td width=465><img src=/gr/clear.gif width=465 height=1></td>
+<td width=20><img src=/gr/clear.gif width=20 height=1></td>
+<td width=55><img src=/gr/clear.gif width=65 height=1></td></tr>
+<tr><td></td><td valign=top>
+<a href="/"><img src=/gr/weatherbase.png alt="Weatherbase" border=0 width=200 height=23 style="margin-top:3px;"></a>
+</td><td valign=top align=right>
+<div style="margin-top:10px;">
+<font style="font-family: Helvetica Neue, Arial, Myriad, sans-serif; font-size: 12px; color: #bbbbbb; font-weight:bold;">
+<div id="header-browse-features">
+<a style="color:#bbbbbb;" href="#" onclick="toggle_visibility('browsetoggle'); toggle_off('featurestoggle');">&nbsp;Browse &#x25BE;&nbsp;</a>
+&nbsp;
+<a style="color:#bbbbbb;" href="#" onclick="toggle_visibility('featurestoggle'); toggle_off('browsetoggle');">&nbsp;Features &#x25BE;&nbsp;</a>
+</div>
+</font>
+</div>
+</td><td valign=top>
+<form name="searchform" method="get" action="/search/search.php3">
+<input size="40" id="query" type="text" name="query" value="enter a city, state, county, country or ZIP" onfocus="if(!this._haschanged){this.value=''};this._haschanged=true;">
+<button type="submit" value=""></button>
+</form>
+<td></td><td valign=top>
+<table border=0 cellpadding=0 cellspacing=0 class="setunitsmargin">
+<tr><td valign=top nowrap>
+<font style="font-family: Helvetica Neue, Arial, Myriad, sans-serif; font-size: 12px; color: #BBBBBB; font-weight:bold;">Set Units</font>
+</td></tr><tr><td valign=top>
+<img src="/gr/f-head-blue.png" width="25" height="21" border=0><a href="http://www.weatherbase.com/weather/weather.php3?s=63011&cityname=Vienna-Austria&set=metric" onmouseover="fc.src='/gr/c-head-gray-flare.png'" onmouseout="fc.src='/gr/c-head-gray.png'"><img name="fc" src="/gr/c-head-gray.png" width="25" height="21" border=0></a>
+</td></tr></table>
+</td></tr></table>
+<div style="display:none;height:150px;width:980px;" id="browsetoggle" onclick="toggle_visibility('browsetoggle');">
+<div id="header-nav">
+<a class="headerglow" href=" /weather/country.php3?r=AFR&regionname=Africa" onClick="recordOutboundLink(this, 'Header', 'Africa'); return false;">&nbsp; AFRICA &nbsp;</a>
+<a class="headerglow" href="/weather/country.php3?r=ASI&regionname=Asia" onClick="recordOutboundLink(this, 'Header', 'Asia'); return false;">&nbsp; ASIA &nbsp;</a>
+<a class="headerglow" href="/weather/state.php3?c=AU&s=&countryname=Australia" onClick="recordOutboundLink(this, 'Header', 'Australia'); return false;">&nbsp; AUSTRALIA &nbsp;</a>
+<a class="headerglow" href="/weather/country.php3?r=CAR&regionname=Caribbean" onClick="recordOutboundLink(this, 'Header', 'Caribbean'); return false;">&nbsp; CARIBBEAN &nbsp;</a>
+<a class="headerglow" href="/weather/country.php3?r=CEN&regionname=Central-America" onClick="recordOutboundLink(this, 'Header', 'Central America'); return false;">&nbsp; CENTRAL AMERICA &nbsp;</a>
+<a class="headerglow" href="/weather/country.php3?r=EUR&regionname=Europe" onClick="recordOutboundLink(this, 'Header', 'Europe'); return false;">&nbsp; EUROPE &nbsp;</a>
+<a class="headerglow" href="/weather/country.php3?r=MID&regionname=Middle-East" onClick="recordOutboundLink(this, 'Header', 'Middle East'); return false;">&nbsp; MIDDLE EAST &nbsp;</a>
+<a class="headerglow" href="/weather/country.php3?r=NOR&regionname=North-America" onClick="recordOutboundLink(this, 'Header', 'North America'); return false;">&nbsp; NORTH AMERICA &nbsp;</a>
+<a class="headerglow" href="/weather/country.php3?r=SOU&regionname=South-America" onClick="recordOutboundLink(this, 'Header', 'South America'); return false;">&nbsp; SOUTH AMERICA &nbsp;</a>
+<a class="headerglow" href="/weather/region.php3" onClick="recordOutboundLink(this, 'Header', 'All Countries'); return false;">&nbsp; SHOW ALL &nbsp;</a>
+</div>
+</div>
+<div style="display:none;height:150px;width:980px;" id="featurestoggle" onclick="toggle_visibility('featurestoggle');">
+<div id="header-nav">
+<a class="headerglow" href="/compare.php3" onClick="recordOutboundLink(this, 'Header', 'Compare Cities'); return false;">&nbsp; COMPARE CITIES &nbsp;</a>
+<a class="headerglow" href="/vacation/step1.php3" onClick="recordOutboundLink(this, 'Header', 'Vacation Finder'); return false;">&nbsp; VACATION FINDER &nbsp;</a>
+<a class="headerglow" href="/reference.php3" onClick="recordOutboundLink(this, 'Header', 'Weather Reference'); return false;">&nbsp; WEATHER REFERENCE &nbsp;</a>
+<a class="headerglow" href="/search/glossary.php3" onClick="recordOutboundLink(this, 'Header', 'Weather Glossary'); return false;">&nbsp; WEATHER GLOSSARY &nbsp;</a>
+<a class="headerglow" href="/reference.php3" onClick="recordOutboundLink(this, 'Header', 'Climate Calculators'); return false;">&nbsp; CLIMATE CALCULATORS &nbsp;</a>
+<a class="headerglow" href="/business.php3" onClick="recordOutboundLink(this, 'Header', 'WeatherAlpha'); return false;">&nbsp; WEATHER IMPACT ASSESSMENTS &nbsp;</a>
+</div>
+</div>
+</div>
+</div>
+<div id="page-block" style="background-color:#ffffff !important;">
+<span itemprop="article">
+<div itemprop="geo" itemscope itemtype="//schema.org/GeoCoordinates">
+<meta itemprop="latitude" content="48.116665">
+<meta itemprop="longitude" content="16.566668">
+<meta itemprop="elevation" content="581 feet">
+<meta itemprop="maps" content="//maps.google.com/maps?q=48.116665+16.566668">
+</div>
+<div itemscope itemtype="//schema.org/Article">
+<meta itemprop="name" content="Vienna, Austria - Travel Weather Averages (Weatherbase)">
+<meta itemprop="author" content="Weatherbase">
+<meta itemprop="keywords" content="Vienna Vienna Austria, travel, vacation, weather forecast, current conditions, holiday, flight, hotel, weather data, historical weather data, climatology records, weather records, weather averages, weather normals, climate, weather database, temperature, precipitation">
+<meta itemprop="description" content="Vienna, Austria - Travel and vacation weather averages, current conditions and forecasts.">
+</div>
+ 
+<div style='display:none;'>
+<div id='chart' style="width:610px; height:410px;">
+<img src="" width="600" height="400"/>
+</div>
+</div>
+<! --Big Arrows -->
+<a class='grayglow' onclick="recordOutboundLink(this, 'Weather Data - Hourly Data', 'Vienna, Vienna, Austria'); return false;" href='/weather/weatherhourly.php3?s=63011&date=2017-01-23&cityname=Vienna%2C+Vienna%2C+Austria&units='>
+<div class="sidebar-arrowprevious">
+<div id="subheaderfont"><div class="sidebar-arrowprevious-text">Hourly<br>Data</div></div>
+</div>
+</a>
+<a class='grayglow' recordOutboundLink(this, 'Weather Data - All Data', 'Vienna, Vienna, Austria'); return false; href='/weather/weatherall.php3?s=63011&cityname=Vienna%2C+Vienna%2C+Austria&units='>
+<div class="sidebar-arrownext">
+<div id="subheaderfont"><div class="sidebar-arrownext-text">Monthly<br>All Data</div></div>
+</div>
+</a>
+
+<!-- // Big Arrows -->
+
+
+<div id="leaderboard-container">
+<div id="leaderboard-weather">
+<div id="leaderboard-border">
+<!--  - CMG -->
+<!-- /6544/WeatherBase.com/topleader -->
+<div id='div-gpt-ad-1456349574506-0' style='height:90px; width:728px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456349574506-0'); });
+</script>
+</div>
+</div>
+</div>
+</div>
+
+<div id="page-block" style="margin-top:145px; float:left; width:900px; margin-left:40px;">
+<div class="flagfloat">
+<div style="position: relative; left: 0; top: 0;">
+<a id="imagepop" href="/gr/flags/au-t.png"><img alt="Austria" Flag" src="/gr/flags/au-t.png" height=70 border=0 style="position: relative; top: 0; left: 0;"></a></div>
+</div>	
+	
+		<div class="text-shadow-fix">
+	<h1>VIENNA, AUSTRIA</h1><br>
+	<!--[if lt IE 7 ]> <br> <![endif]-->
+    <!--[if IE 7 ]>    <br> <![endif]-->
+
+	</div>
+	<div id="fake">
+	<span style="font-size:14px;">
+	
+	<a class="redglow" href="//www.weatherbase.com" onClick="recordOutboundLink(this, 'Weather Data - Cookie', 'Homepage'); return false;">Home</a> > 
+	<a class="redglow" href="/weather/country.php3?r=EUR&regionname=Europe" onClick="recordOutboundLink(this, 'Weather Data - Cookie', 'Europe'); return false;">Europe</a> > <a class="redglow" href="/weather/city.php3?c=AT&name=Austria" onClick="recordOutboundLink(this, 'Weather Data - Cookie', 'Austria'); return false;">Austria</a>
+
+	</span>
+	
+		
+	<br>
+		<span style="font-size:14px;">Elevation:  581 feet	&nbsp; &nbsp; Latitude: 48 07N &nbsp; &nbsp; Longitude: 016 34E</span>
+	</div>
+<p>	
+	
+	
+	
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr><td valign=top width=160>
+
+<div id=headerfont style='font-size:20px;'>WEATHER</div>
+<ul class="nav">
+<font style="font-size:14px;">
+<li style="list-style:circle;"><b>Monthly - Summary</b>
+<li style="margin-left:15px;"><a class='grayglow' onclick="goToByScroll('forecast-anchor'); recordOutboundLinkPopup(this, 'Weather Data - Nearby', 'Forecast Link'); return false;" href='#'>Nearby</a>
+<li style="margin-left:15px;"><a class='grayglow' onclick="goToByScroll('forecast-anchor'); recordOutboundLinkPopup(this, 'Weather Data - Forecast', 'Forecast Link'); return false;" href='#'>Forecast</a>
+<li><a class='grayglow' recordOutboundLink(this, 'Weather Data - All Data', 'Vienna, Vienna, Austria'); return false; href='/weather/weatherall.php3?s=63011&cityname=Vienna%2C+Vienna%2C+Austria&units='>Monthly - All Data</a>
+<li><a class='grayglow' onclick="recordOutboundLink(this, 'Weather Data - Summary', 'Climate Summary'); return false;" href='/weather/weather-summary.php3?s=63011&cityname=Vienna%2C+Vienna%2C+Austria&units='>Climate Summary</a>
+
+<li><a class='grayglow' onclick="recordOutboundLink(this, 'Weather Data - Daily Data', 'Vienna, Vienna, Austria'); return false;" href='/weather/weatherdaily.php3?s=63011&month=1&theday=25&cityname=Vienna%2C+Vienna%2C+Austria&units='>Daily Averages</a>
+<li><a class='grayglow' onclick="recordOutboundLink(this, 'Weather Data - Hourly Data', 'Vienna, Vienna, Austria'); return false;" href='/weather/weatherhourly.php3?s=63011&date=2017-01-23&cityname=Vienna%2C+Vienna%2C+Austria&units='>Hourly Data</a></ul>
+</font>
+</div>
+
+</td><td width=25>&nbsp;</td><td valign=top width=530>
+
+	<div id=headerfont style='font-size:20px;'>CURRENT CONDITIONS</div>
+    <p style="font-size:5px; line-height:5px;">						
+		
+	
+		<style>
+			.condition-value{font-size:13px;}
+			.condition-temperature{font-size:24px; font-weight:bold; color:#08078B; line-height:36px;}
+			#condition-table td{padding:5px; border-bottom:0px solid #000000; line-height:18px;}
+			#condition-table{border-collapse:collapse; width:100%;}
+			#condition-sub-table td{padding:0px; border-bottom:0px; line-height:18px;}
+			#condition-sub-table {width:100%;}
+		</style>
+	
+		<p style='text-align:right; line-height:11px; right:0; margin-right:50px; font-size:11px; margin-top:-25px;'><b>As of 25 January, 2017 @ 6:20 pm CET<br>(20 Minutes Ago)</b></p>
+	
+		<table id='condition-table'>
+		<tr>
+			<td valign='top' align='center' style='line-height:15px;' width='23%' rowspan=2>
+				<table id='condition-sub-table'><tr>
+				<td width='70' align=center>
+					<img src='../gr/symbols/3.png' width='60' style='' />
+				</td></tr>
+				<tr><td align='center'>
+					<span class='condition-value'><b>Partly Cloudy</b></span>
+				</td>
+				</tr></table>
+			</td>
+			<td valign='top'>
+				<span class='datahead2'>Temperature</span><br>
+				<span class='condition-value condition-temperature'>30.2&deg;F</span>
+			</td>
+			<td valign='top'>
+				<span class='datahead2'>Humidity</span><br>
+				<span class='condition-value'>80.1 %</span>
+			</td>
+			<td valign='top'>
+				<span class='datahead2'>Wind</span><br>
+				<span class='condition-value'>4.6 mph</span>
+			</td>
+			<td valign='top'>
+				<span class='datahead2'>Sunrise/Set</span><br>
+				<span class='condition-value'><img src='../gr/sunrise-icon.png' width='20'/> 07:29 am<br><img src='../gr/sunset-icon.png' width='20'/> 04:43 pm</span>
+			</td>
+		</tr>
+		<tr>
+			<td valign='top'>
+				<span class='datahead2'>Visibility</span><br>
+				<span class='condition-value'>6 mi</span>
+			</td>
+			<td valign='top'>
+				<span class='datahead2'>Dew Point</span><br>
+				<span class='condition-value'>24.8 &deg;F</span>
+			</td>
+			<td valign='top'>
+				<span class='datahead2'>Pressure</span><br>
+				<span class='condition-value'>30.41 in hg</span>
+			</td>
+			<td valign='top'>
+				<span class='datahead2'>Local Time</span><br>
+				<span class='condition-value'>6:40 pm CET<br>25 January, 2017</span>
+			</td>
+		</tr>		
+	</table>
+	
+	
+	<div style="margin-top:0px; ">			
+		<div style="float:left;">
+		</div>		
+		<div style="float:right">
+		</div>	
+		<div style="clear:both;"></div>
+	</div>
+
+</td><td width=25>&nbsp;</td><td valign=top width=160>
+
+<div id=headerfont style='font-size:20px;'>SHARE</div>
+
+<!-- AddThis Button BEGIN -->
+
+
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_linkedin"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_compact"></a>
+<script type="text/javascript">
+var addthis_config = {
+  services_exclude: 'print'
+}
+</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4d6d141d51e5a5d8"></script>
+<!-- AddThis Button END -->
+</div>
+<p>
+<div id=headerfont style='font-size:20px;'>PRINT THIS DATA</div>
+
+<a id="print-icon" onclick="myPrint();"><img src="/gr/print-icon.jpg" onmouseover="this.src='/gr/print-icon-hover.jpg'" onmouseout="this.src='/gr/print-icon.jpg'" /></a>
+
+
+
+
+<script>
+
+	function myPrint(){
+
+					PrintUrl('printIframe', 'http://www.weatherbase.com/weather/weather-print.php3?s=63011&refer=&cityname=Vienna-Austria&units=');
+			}
+	
+</script>
+
+
+
+<div style="clear:both"></div>
+</td></tr></table>
+
+</div>
+	
+
+
+<div id="page-block" style="margin-top:0; float:left; width:980px;">
+
+
+
+
+
+<div id="left-weather-content" style="width:670px;">
+
+
+
+
+<p><table border=0 cellpadding=0 cellspacing=0 width=100%><tr><td valign=top align=left>
+<table border=0 cellpadding=0 cellspacing=0><tr><td valign=bottom>
+<div id=headerfont style='font-size:20px'>MONTHLY - WEATHER AVERAGES SUMMARY <font style="font-size:11px;">&nbsp [ <a class="grayglow" recordOutboundLink(this, 'Weather Data - All Data', 'Vienna, Vienna, Austria'); return false; href="/weather/weatherall.php3?s=63011&units=">Show All Data</a> ]</font></div>
+
+</td></tr></table>
+</td><td valign=top align=right>
+<table border=0 cellpadding=0 cellspacing=0 align=right><tr><td valign=bottom><div id=headerfont style='font-size:20px; font-weight:600;'>
+<font style='font-size:11px; font-weight:400;'>[ <a class="grayglow" href="/weather/weather.php3?s=63011&cityname=Vienna-Vienna-Austria&units=metric" onClick="recordOutboundLink(this, 'Weather Data', 'US')";>&deg;C</a> ]</font> &nbsp; &deg;F
+</div></td></tr></table>
+</td></tr></table>
+
+
+
+
+
+
+
+
+<!-- dharker - added div.text-shadow-fix to fix h1 in IE on weather pages - conflict caused from text shadow fix -->
+
+<!-- Google Consumer Surveys Wrapper -->
+<div class="p402_premium">
+
+
+
+
+<table border=0 cellspacing=0 cellpadding=0 width=684 class='weather-table'>
+<tr><td valign=bottom align=left class=h4line><div id='h4font'>Average Temperature</div></td><td valign=bottom align=right class=years><span>Years on Record: 30&nbsp; </span><a class="chartpop" data-fancybox-type="iframe" href="http://www.weatherbase.com/weather/chart.php?type=Average+Temperature&units=Fahrenheit&location=Vienna%2C+Austria&symbol=F&data=34.2,37.2,43.5,52.7,61.7,66.4,71.1,70.9,62.2,52.9,41.9,36.3"><img align=right src="/gr/chartthis.png" alt="Chart This" title="Chart This" border=0 width="20" height="20"></a></td></tr>
+</table>
+<table border=0 cellpadding=2 cellspacing=0 width=650>
+<tr><td valign=top><img src=/gr/clearspc.gif width=45 height=1></td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>ANNUAL&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JAN&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>FEB&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAR&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>APR&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAY&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>JUN&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JUL&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>AUG&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>SEP&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>OCT&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>NOV&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>DEC&nbsp;</td><td rowspan=2 class=dataline2></td>
+</tr>
+<tr bgcolor="white"><td align=right class=dataunit>F</td><td class=data>52.5</td><td class=data>34.2</td><td class=data>37.2</td><td class=data>43.5</td><td class=data>52.7</td><td class=data>61.7</td><td class=data>66.4</td><td class=data>71.1</td><td class=data>70.9</td><td class=data>62.2</td><td class=data>52.9</td><td class=data>41.9</td><td class=data>36.3</td>
+</tr></table><p>
+<table border=0 cellspacing=0 cellpadding=0 width=684 class='weather-table'>
+<tr><td valign=bottom align=left class=h4line><div id='h4font'>Average High Temperature</div></td><td valign=bottom align=right class=years><span>Years on Record: 30&nbsp; </span><a class="chartpop" data-fancybox-type="iframe" href="http://www.weatherbase.com/weather/chart.php?type=Average+High+Temperature&units=Fahrenheit&location=Vienna%2C+Austria&symbol=F&data=38.8,43,50.4,61,70.3,75.2,80.1,79.9,70,59.5,46.6,40.3"><img align=right src="/gr/chartthis.png" alt="Chart This" title="Chart This" border=0 width="20" height="20"></a></td></tr>
+</table>
+<table border=0 cellpadding=2 cellspacing=0 width=650>
+<tr><td valign=top><img src=/gr/clearspc.gif width=45 height=1></td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>ANNUAL&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JAN&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>FEB&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAR&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>APR&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAY&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>JUN&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JUL&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>AUG&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>SEP&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>OCT&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>NOV&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>DEC&nbsp;</td><td rowspan=2 class=dataline2></td>
+</tr>
+<tr bgcolor="white"><td align=right class=dataunit>F</td><td class=data>59.5</td><td class=data>38.8</td><td class=data>43</td><td class=data>50.4</td><td class=data>61</td><td class=data>70.3</td><td class=data>75.2</td><td class=data>80.1</td><td class=data>79.9</td><td class=data>70</td><td class=data>59.5</td><td class=data>46.6</td><td class=data>40.3</td>
+</tr></table><p>
+<table border=0 cellspacing=0 cellpadding=0 width=684 class='weather-table'>
+<tr><td valign=bottom align=left class=h4line><div id='h4font'>Average Low Temperature</div></td><td valign=bottom align=right class=years><span>Years on Record: 30&nbsp; </span><a class="chartpop" data-fancybox-type="iframe" href="http://www.weatherbase.com/weather/chart.php?type=Average+Low+Temperature&units=Fahrenheit&location=Vienna%2C+Austria&symbol=F&data=30.6,32.5,38.3,46,54.5,59.2,63.3,63.5,56.5,47.8,38.5,32.9"><img align=right src="/gr/chartthis.png" alt="Chart This" title="Chart This" border=0 width="20" height="20"></a></td></tr>
+</table>
+<table border=0 cellpadding=2 cellspacing=0 width=650>
+<tr><td valign=top><img src=/gr/clearspc.gif width=45 height=1></td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>ANNUAL&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JAN&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>FEB&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAR&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>APR&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAY&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>JUN&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JUL&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>AUG&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>SEP&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>OCT&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>NOV&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>DEC&nbsp;</td><td rowspan=2 class=dataline2></td>
+</tr>
+<tr bgcolor="white"><td align=right class=dataunit>F</td><td class=data>46.9</td><td class=data>30.6</td><td class=data>32.5</td><td class=data>38.3</td><td class=data>46</td><td class=data>54.5</td><td class=data>59.2</td><td class=data>63.3</td><td class=data>63.5</td><td class=data>56.5</td><td class=data>47.8</td><td class=data>38.5</td><td class=data>32.9</td>
+</tr></table><p>
+<table border=0 cellspacing=0 cellpadding=0 width=684 class='weather-table'>
+<tr><td valign=bottom align=left class=h4line><div id='h4font'>Average Precipitation</div></td><td valign=bottom align=right class=years><span>Years on Record: 30&nbsp; </span><a class="chartpop" data-fancybox-type="iframe" href="http://www.weatherbase.com/weather/chart.php?type=Average+Precipitation&units=Inches&location=Vienna%2C+Austria&symbol=in&data=0.8,1.1,1.5,1.5,2.4,2.5,2.6,2.6,2,1.3,1.7,1.4"><img align=right src="/gr/chartthis.png" alt="Chart This" title="Chart This" border=0 width="20" height="20"></a></td></tr>
+</table>
+<table border=0 cellpadding=2 cellspacing=0 width=650>
+<tr><td valign=top><img src=/gr/clearspc.gif width=45 height=1></td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>ANNUAL&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JAN&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>FEB&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAR&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>APR&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAY&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>JUN&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JUL&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>AUG&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>SEP&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>OCT&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>NOV&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>DEC&nbsp;</td><td rowspan=2 class=dataline2></td>
+</tr>
+<tr bgcolor="white"><td align=right class=dataunit>in</td><td class=data>21.6</td><td class=data>0.8</td><td class=data>1.1</td><td class=data>1.5</td><td class=data>1.5</td><td class=data>2.4</td><td class=data>2.5</td><td class=data>2.6</td><td class=data>2.6</td><td class=data>2</td><td class=data>1.3</td><td class=data>1.7</td><td class=data>1.4</td>
+</tr></table><p>
+<table border=0 cellspacing=0 cellpadding=0 width=684 class='weather-table'>
+<tr><td valign=bottom align=left class=h4line><div id='h4font'>Average Number of Days With Precipitation</div></td><td valign=bottom align=right class=years><span>Years on Record: 30&nbsp; </span><a class="chartpop" data-fancybox-type="iframe" href="http://www.weatherbase.com/weather/chart.php?type=Average+Number+of+Days+With+Precipitation&units=Days&location=Vienna%2C+Austria&symbol=Days&data=1.3,2.1,3.5,2.2,6.7,3.6,7.4,4.8,4.6,2.4,2.8,2"><img align=right src="/gr/chartthis.png" alt="Chart This" title="Chart This" border=0 width="20" height="20"></a></td></tr>
+</table>
+<table border=0 cellpadding=2 cellspacing=0 width=650>
+<tr><td valign=top><img src=/gr/clearspc.gif width=45 height=1></td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>ANNUAL&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JAN&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>FEB&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAR&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>APR&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAY&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>JUN&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JUL&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>AUG&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>SEP&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>OCT&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>NOV&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>DEC&nbsp;</td><td rowspan=2 class=dataline2></td>
+</tr>
+<tr bgcolor="white"><td align=right class=dataunit>Days</td><td class=data>43.4</td><td class=data>1.3</td><td class=data>2.1</td><td class=data>3.5</td><td class=data>2.2</td><td class=data>6.7</td><td class=data>3.6</td><td class=data>7.4</td><td class=data>4.8</td><td class=data>4.6</td><td class=data>2.4</td><td class=data>2.8</td><td class=data>2</td>
+</tr></table><p>
+<table border=0 cellspacing=0 cellpadding=0 width=684 class='weather-table'>
+<tr><td valign=bottom align=left class=h4line><div id='h4font'>Highest Recorded Temperature</div></td><td valign=bottom align=right class=years><span>Years on Record: 30&nbsp; </span><a class="chartpop" data-fancybox-type="iframe" href="http://www.weatherbase.com/weather/chart.php?type=Highest+Recorded+Temperature&units=Fahrenheit&location=Vienna%2C+Austria&symbol=F&data=62.2,67.1,77.7,81.3,88.7,97.7,97,98.6,89.2,76.6,70.3,61.5"><img align=right src="/gr/chartthis.png" alt="Chart This" title="Chart This" border=0 width="20" height="20"></a></td></tr>
+</table>
+<table border=0 cellpadding=2 cellspacing=0 width=650>
+<tr><td valign=top><img src=/gr/clearspc.gif width=45 height=1></td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>ANNUAL&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JAN&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>FEB&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAR&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>APR&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAY&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>JUN&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JUL&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>AUG&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>SEP&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>OCT&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>NOV&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>DEC&nbsp;</td><td rowspan=2 class=dataline2></td>
+</tr>
+<tr bgcolor="white"><td align=right class=dataunit>F</td><td class=data>98.6</td><td class=data>62.2</td><td class=data>67.1</td><td class=data>77.7</td><td class=data>81.3</td><td class=data>88.7</td><td class=data>97.7</td><td class=data>97</td><td class=data>98.6</td><td class=data>89.2</td><td class=data>76.6</td><td class=data>70.3</td><td class=data>61.5</td>
+</tr></table><p>
+<table border=0 cellspacing=0 cellpadding=0 width=684 class='weather-table'>
+<tr><td valign=bottom align=left class=h4line><div id='h4font'>Lowest Recorded Temperature</div></td><td valign=bottom align=right class=years><span>Years on Record: 30&nbsp; </span><a class="chartpop" data-fancybox-type="iframe" href="http://www.weatherbase.com/weather/chart.php?type=Lowest+Recorded+Temperature&units=Fahrenheit&location=Vienna%2C+Austria&symbol=F&data=0.3,2.5,12.6,28.2,40.8,44.2,51.6,50.2,42.1,28.8,19.4,4.3"><img align=right src="/gr/chartthis.png" alt="Chart This" title="Chart This" border=0 width="20" height="20"></a></td></tr>
+</table>
+<table border=0 cellpadding=2 cellspacing=0 width=650>
+<tr><td valign=top><img src=/gr/clearspc.gif width=45 height=1></td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>ANNUAL&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JAN&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>FEB&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAR&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>APR&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAY&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>JUN&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JUL&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>AUG&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>SEP&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>OCT&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>NOV&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>DEC&nbsp;</td><td rowspan=2 class=dataline2></td>
+</tr>
+<tr bgcolor="white"><td align=right class=dataunit>F</td><td class=data>0.3</td><td class=data>0.3</td><td class=data>2.5</td><td class=data>12.6</td><td class=data>28.2</td><td class=data>40.8</td><td class=data>44.2</td><td class=data>51.6</td><td class=data>50.2</td><td class=data>42.1</td><td class=data>28.8</td><td class=data>19.4</td><td class=data>4.3</td>
+</tr></table><p>
+<table border=0 cellspacing=0 cellpadding=0 width=684 class='weather-table'>
+<tr><td valign=bottom align=left class=h4line><div id='h4font'>Average Length of Day</div></td><td valign=bottom align=right class=years><span>Years on Record: 30&nbsp; </span><a class="chartpop" data-fancybox-type="iframe" href="http://www.weatherbase.com/weather/chart.php?type=Average+Length+of+Day&units=Hours&location=Vienna%2C+Austria&symbol=Hours&data=9.5,10.8,12.5,14.3,15.9,16.7,16.2,14.8,13.1,11.3,9.8,9"><img align=right src="/gr/chartthis.png" alt="Chart This" title="Chart This" border=0 width="20" height="20"></a></td></tr>
+</table>
+<table border=0 cellpadding=2 cellspacing=0 width=650>
+<tr><td valign=top><img src=/gr/clearspc.gif width=45 height=1></td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>ANNUAL&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JAN&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>FEB&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAR&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>APR&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAY&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>JUN&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JUL&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>AUG&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>SEP&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>OCT&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>NOV&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>DEC&nbsp;</td><td rowspan=2 class=dataline2></td>
+</tr>
+<tr bgcolor="white"><td align=right class=dataunit>Hours</td><td class=data>12.8</td><td class=data>9.5</td><td class=data>10.8</td><td class=data>12.5</td><td class=data>14.3</td><td class=data>15.9</td><td class=data>16.7</td><td class=data>16.2</td><td class=data>14.8</td><td class=data>13.1</td><td class=data>11.3</td><td class=data>9.8</td><td class=data>9</td>
+</tr></table><p>
+<table border=0 cellspacing=0 cellpadding=0 width=684 class='weather-table'>
+<tr><td valign=bottom align=left class=h4line><div id='h4font'>Average Number of Days Above 90F/32C</div></td><td valign=bottom align=right class=years><span>Years on Record: 21&nbsp; </span><a class="chartpop" data-fancybox-type="iframe" href="http://www.weatherbase.com/weather/chart.php?type=Average+Number+of+Days+Above+90F%2F32C&units=Days&location=Vienna%2C+Austria&symbol=Days&data=0,0,0,0,0,0,1,2,0,0,0,0"><img align=right src="/gr/chartthis.png" alt="Chart This" title="Chart This" border=0 width="20" height="20"></a></td></tr>
+</table>
+<table border=0 cellpadding=2 cellspacing=0 width=650>
+<tr><td valign=top><img src=/gr/clearspc.gif width=45 height=1></td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>ANNUAL&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JAN&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>FEB&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAR&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>APR&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAY&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>JUN&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JUL&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>AUG&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>SEP&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>OCT&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>NOV&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>DEC&nbsp;</td><td rowspan=2 class=dataline2></td>
+</tr>
+<tr bgcolor="white"><td align=right class=dataunit>Days</td><td class=data>3</td><td class=data>---</td><td class=data>---</td><td class=data>---</td><td class=data>---</td><td class=data>---</td><td class=data>---</td><td class=data>1</td><td class=data>2</td><td class=data>---</td><td class=data>---</td><td class=data>---</td><td class=data>---</td>
+</tr></table><p>
+<table border=0 cellspacing=0 cellpadding=0 width=684 class='weather-table'>
+<tr><td valign=bottom align=left class=h4line><div id='h4font'>Average Number of Days Below 32F/0C</div></td><td valign=bottom align=right class=years><span>Years on Record: 30&nbsp; </span><a class="chartpop" data-fancybox-type="iframe" href="http://www.weatherbase.com/weather/chart.php?type=Average+Number+of+Days+Below+32F%2F0C&units=Days&location=Vienna%2C+Austria&symbol=Days&data=17.1,10.7,4.3,0.1,0,0,0,0,0,0.5,4.9,12.8"><img align=right src="/gr/chartthis.png" alt="Chart This" title="Chart This" border=0 width="20" height="20"></a></td></tr>
+</table>
+<table border=0 cellpadding=2 cellspacing=0 width=650>
+<tr><td valign=top><img src=/gr/clearspc.gif width=45 height=1></td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>ANNUAL&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JAN&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>FEB&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAR&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>APR&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAY&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>JUN&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JUL&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>AUG&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>SEP&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>OCT&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>NOV&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>DEC&nbsp;</td><td rowspan=2 class=dataline2></td>
+</tr>
+<tr bgcolor="white"><td align=right class=dataunit>Days</td><td class=data>50.4</td><td class=data>17.1</td><td class=data>10.7</td><td class=data>4.3</td><td class=data>0.1</td><td class=data>---</td><td class=data>---</td><td class=data>---</td><td class=data>---</td><td class=data>---</td><td class=data>0.5</td><td class=data>4.9</td><td class=data>12.8</td>
+</tr></table><p>
+<table border=0 cellspacing=0 cellpadding=0 width=684 class='weather-table'>
+<tr><td valign=bottom align=left class=h4line><div id='h4font'>Average Number of Rainy Days</div></td><td valign=bottom align=right class=years><span>Years on Record: 19&nbsp; </span><a class="chartpop" data-fancybox-type="iframe" href="http://www.weatherbase.com/weather/chart.php?type=Average+Number+of+Rainy+Days&units=Days&location=Vienna%2C+Austria&symbol=Days&data=13,11,16,19,18,20,18,16,15,15,17,15"><img align=right src="/gr/chartthis.png" alt="Chart This" title="Chart This" border=0 width="20" height="20"></a></td></tr>
+</table>
+<table border=0 cellpadding=2 cellspacing=0 width=650>
+<tr><td valign=top><img src=/gr/clearspc.gif width=45 height=1></td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>ANNUAL&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JAN&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>FEB&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAR&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>APR&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAY&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>JUN&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JUL&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>AUG&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>SEP&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>OCT&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>NOV&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>DEC&nbsp;</td><td rowspan=2 class=dataline2></td>
+</tr>
+<tr bgcolor="white"><td align=right class=dataunit>Days</td><td class=data>193</td><td class=data>13</td><td class=data>11</td><td class=data>16</td><td class=data>19</td><td class=data>18</td><td class=data>20</td><td class=data>18</td><td class=data>16</td><td class=data>15</td><td class=data>15</td><td class=data>17</td><td class=data>15</td>
+</tr></table><p>
+<table border=0 cellspacing=0 cellpadding=0 width=684 class='weather-table'>
+<tr><td valign=bottom align=left class=h4line><div id='h4font'>Average Number of Days With Snow</div></td><td valign=bottom align=right class=years><span>Years on Record: 19&nbsp; </span><a class="chartpop" data-fancybox-type="iframe" href="http://www.weatherbase.com/weather/chart.php?type=Average+Number+of+Days+With+Snow&units=Days&location=Vienna%2C+Austria&symbol=Days&data=13,11,7,2,0,0,0,0,0,0,5,11"><img align=right src="/gr/chartthis.png" alt="Chart This" title="Chart This" border=0 width="20" height="20"></a></td></tr>
+</table>
+<table border=0 cellpadding=2 cellspacing=0 width=650>
+<tr><td valign=top><img src=/gr/clearspc.gif width=45 height=1></td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>ANNUAL&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JAN&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>FEB&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAR&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>APR&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAY&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>JUN&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JUL&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>AUG&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>SEP&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>OCT&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>NOV&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>DEC&nbsp;</td><td rowspan=2 class=dataline2></td>
+</tr>
+<tr bgcolor="white"><td align=right class=dataunit>Days</td><td class=data>49</td><td class=data>13</td><td class=data>11</td><td class=data>7</td><td class=data>2</td><td class=data>---</td><td class=data>---</td><td class=data>---</td><td class=data>---</td><td class=data>---</td><td class=data>---</td><td class=data>5</td><td class=data>11</td>
+</tr></table><p>
+<table border=0 cellspacing=0 cellpadding=0 width=684 class='weather-table'>
+<tr><td valign=bottom align=left class=h4line><div id='h4font'>Average Morning Relative Humidity</div></td><td valign=bottom align=right class=years><span>Years on Record: 30&nbsp; </span><a class="chartpop" data-fancybox-type="iframe" href="http://www.weatherbase.com/weather/chart.php?type=Average+Morning+Relative+Humidity&units=Percent&location=Vienna%2C+Austria&symbol=%25&data=83.8,81.6,80.5,76.4,76.4,76.4,76.4,77.9,83.5,86.1,86.2,84.8"><img align=right src="/gr/chartthis.png" alt="Chart This" title="Chart This" border=0 width="20" height="20"></a></td></tr>
+</table>
+<table border=0 cellpadding=2 cellspacing=0 width=650>
+<tr><td valign=top><img src=/gr/clearspc.gif width=45 height=1></td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>ANNUAL&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JAN&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>FEB&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAR&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>APR&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAY&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>JUN&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JUL&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>AUG&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>SEP&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>OCT&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>NOV&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>DEC&nbsp;</td><td rowspan=2 class=dataline2></td>
+</tr>
+<tr bgcolor="white"><td align=right class=dataunit>%</td><td class=data>80.8</td><td class=data>83.8</td><td class=data>81.6</td><td class=data>80.5</td><td class=data>76.4</td><td class=data>76.4</td><td class=data>76.4</td><td class=data>76.4</td><td class=data>77.9</td><td class=data>83.5</td><td class=data>86.1</td><td class=data>86.2</td><td class=data>84.8</td>
+</tr></table><p>
+<table border=0 cellspacing=0 cellpadding=0 width=684 class='weather-table'>
+<tr><td valign=bottom align=left class=h4line><div id='h4font'>Average Evening Relative Humidity</div></td><td valign=bottom align=right class=years><span>Years on Record: 30&nbsp; </span><a class="chartpop" data-fancybox-type="iframe" href="http://www.weatherbase.com/weather/chart.php?type=Average+Evening+Relative+Humidity&units=Percent&location=Vienna%2C+Austria&symbol=%25&data=75,67.6,62.1,53.9,54.3,56.9,54.4,54.4,61,64.9,74.9,78.4"><img align=right src="/gr/chartthis.png" alt="Chart This" title="Chart This" border=0 width="20" height="20"></a></td></tr>
+</table>
+<table border=0 cellpadding=2 cellspacing=0 width=650>
+<tr><td valign=top><img src=/gr/clearspc.gif width=45 height=1></td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>ANNUAL&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JAN&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>FEB&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAR&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>APR&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAY&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>JUN&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JUL&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>AUG&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>SEP&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>OCT&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>NOV&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>DEC&nbsp;</td><td rowspan=2 class=dataline2></td>
+</tr>
+<tr bgcolor="white"><td align=right class=dataunit>%</td><td class=data>63.2</td><td class=data>75</td><td class=data>67.6</td><td class=data>62.1</td><td class=data>53.9</td><td class=data>54.3</td><td class=data>56.9</td><td class=data>54.4</td><td class=data>54.4</td><td class=data>61</td><td class=data>64.9</td><td class=data>74.9</td><td class=data>78.4</td>
+</tr></table><p>
+<table border=0 cellspacing=0 cellpadding=0 width=684 class='weather-table'>
+<tr><td valign=bottom align=left class=h4line><div id='h4font'>Average Dew Point</div></td><td valign=bottom align=right class=years><span>Years on Record: 21&nbsp; </span><a class="chartpop" data-fancybox-type="iframe" href="http://www.weatherbase.com/weather/chart.php?type=Average+Dew+Point&units=Fahrenheit&location=Vienna%2C+Austria&symbol=F&data=26,26,32,36,46,51,53,54,50,42,33,28"><img align=right src="/gr/chartthis.png" alt="Chart This" title="Chart This" border=0 width="20" height="20"></a></td></tr>
+</table>
+<table border=0 cellpadding=2 cellspacing=0 width=650>
+<tr><td valign=top><img src=/gr/clearspc.gif width=45 height=1></td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>ANNUAL&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JAN&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>FEB&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAR&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>APR&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAY&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>JUN&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JUL&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>AUG&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>SEP&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>OCT&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>NOV&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>DEC&nbsp;</td><td rowspan=2 class=dataline2></td>
+</tr>
+<tr bgcolor="white"><td align=right class=dataunit>F</td><td class=data>40</td><td class=data>26</td><td class=data>26</td><td class=data>32</td><td class=data>36</td><td class=data>46</td><td class=data>51</td><td class=data>53</td><td class=data>54</td><td class=data>50</td><td class=data>42</td><td class=data>33</td><td class=data>28</td>
+</tr></table><p>
+<table border=0 cellspacing=0 cellpadding=0 width=684 class='weather-table'>
+<tr><td valign=bottom align=left class=h4line><div id='h4font'>Average Wind Speed</div></td><td valign=bottom align=right class=years><span>Years on Record: 30&nbsp; </span><a class="chartpop" data-fancybox-type="iframe" href="http://www.weatherbase.com/weather/chart.php?type=Average+Wind+Speed&units=Miles+Per+Hour&location=Vienna%2C+Austria&symbol=mph&data=8.5,9.2,8.9,9.4,8.7,8.9,8.5,7.8,8.1,8.1,8.3,8.9"><img align=right src="/gr/chartthis.png" alt="Chart This" title="Chart This" border=0 width="20" height="20"></a></td></tr>
+</table>
+<table border=0 cellpadding=2 cellspacing=0 width=650>
+<tr><td valign=top><img src=/gr/clearspc.gif width=45 height=1></td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>ANNUAL&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JAN&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>FEB&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAR&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>APR&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>MAY&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>JUN&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>JUL&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>AUG&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>SEP&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>OCT&nbsp;</td><td rowspan=2 class=dataline2>&nbsp;</td><td class=datahead2>NOV&nbsp;</td><td rowspan=2 class=dataline1>&nbsp;</td><td class=datahead1>DEC&nbsp;</td><td rowspan=2 class=dataline2></td>
+</tr>
+<tr bgcolor="white"><td align=right class=dataunit>mph</td><td class=data>8.7</td><td class=data>8.5</td><td class=data>9.2</td><td class=data>8.9</td><td class=data>9.4</td><td class=data>8.7</td><td class=data>8.9</td><td class=data>8.5</td><td class=data>7.8</td><td class=data>8.1</td><td class=data>8.1</td><td class=data>8.3</td><td class=data>8.9</td>
+</tr></table><p>
+
+
+</div>
+</div>
+<!-- Google Consumer Surveys Wrapper -->
+<script type="text/javascript">
+  try { _402_Show(); } catch(e) {}
+</script> 
+
+
+<div id="right-content" style="width:180px; float:right; margin-right:20px;">
+<div id="skyscraper-border">
+<!-- Content Block -->
+
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-2286496978580537"
+     data-ad-slot="3154678000"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+ 
+
+<!-- // Content Block -->
+
+
+<br>
+<p>
+</div>
+
+<p><br><p>
+<br>
+</div>
+<div id="left-content" style="position:relative; margin-top:55px;"><a id="forecast-anchor"></a><a name="linknearby"></a><p><br>
+<div id="page-block style="width:980px; left-margin:auto; right-margin:auto;">
+<br><table border=0 cellpadding=0 cellspacing=0 width=920>
+<tr><td valign=top width=260 align=left>
+	<div class="text-shadow-fix">
+		<div id=subheaderfont>NEARBY - MAP</div><br>
+		
+	</div>
+	<div style="position: relative; left: 0; top: 0;">
+	<a id="mappop" href="#mapinline" onClick="recordOutboundLinkPopup(this, 'Weather Data - Map', 'Vienna, Austria - Map'); return false;"><img width='250' height='200' src="//maps.googleapis.com/maps/api/staticmap?center=48.116665,16.566668&zoom=8&size=250x200&markers=size:mid|icon: http://tinyurl.com/mApfLag|48.116665,16.566668" alt="Map" border=0 style="position: relative; top: 0; left: 0; border-style:solid; border-width:1px; border-color:#08078B;" ><img src="/gr/enlarge_bottom_left.png" width=20 height=16 style="position: absolute; top: 0px; left: 232px; opacity:0.75; filter:alpha(opacity=75); -webkit-transform: rotate(-180deg); -moz-transform: rotate(-180deg);" border=0></a>
+	</div>
+	<div style="display: none;">
+	<div id="mapinline" style="width:610px;height:410px;overflow:hidden;">
+	<div id="map_options"><input type="checkbox" id="all_locations" checked='false' />Show Other Locations</div>
+	<div id="map_side" style="height:400px;width:600px; border-style:solid; border-width:3px; border-color:#08078B;"></div>
+	</div>  
+	</div>
+</td><td valign=top width=30>&nbsp; &nbsp;</td><td valign=top width=330 align=left>
+	<div class="text-shadow-fix">
+		<div id=subheaderfont>NEARBY - LIST</div><br>
+	</div>
+<p>
+<ul>
+<li><a class="redglow" href=" /weather/weather.php3?s=591853&cityname=Schwechat-Niederösterreich" onClick="recordOutboundLink(this, 'Weather Data - Nearby', 'Schwechat%2C+Austria'); return false;">Schwechat, Austria</a> <font size=-1>(0 mi / 0 km)</font></li>
+<li><a class="redglow" href=" /weather/weather.php3?s=591746&cityname=Groß-Enzersdorf-Niederösterreich" onClick="recordOutboundLink(this, 'Weather Data - Nearby', 'Gro%DF-Enzersdorf%2C+Austria'); return false;">Groß-Enzersdorf, Austria</a> <font size=-1>(5 mi / 9 km)</font></li>
+<li><a class="redglow" href=" /weather/weather.php3?s=591872&cityname=Vienna--Unterlaa-Wien" onClick="recordOutboundLink(this, 'Weather Data - Nearby', 'Vienna+-+Unterlaa%2C+Austria'); return false;">Vienna - Unterlaa, Austria</a> <font size=-1>(7 mi / 11 km)</font></li>
+<li><a class="redglow" href=" /weather/weather.php3?s=591736&cityname=Fuchsenbigl-Niederösterreich" onClick="recordOutboundLink(this, 'Weather Data - Nearby', 'Fuchsenbigl%2C+Austria'); return false;">Fuchsenbigl, Austria</a> <font size=-1>(10 mi / 16 km)</font></li>
+<li><a class="redglow" href=" /weather/weather.php3?s=110350&cityname=Klosterneuburg-" onClick="recordOutboundLink(this, 'Weather Data - Nearby', 'Klosterneuburg%2C+Austria'); return false;">Klosterneuburg, Austria</a> <font size=-1>(12 mi / 20 km)</font></li>
+</ul>
+</td><td valign=top width=30>&nbsp; &nbsp;</td><td valign=top width=330 align=left>
+<div class="text-shadow-fix">
+<div id=subheaderfont>GEOBA.SE</font><br>
+</div><ul>
+<font style="font-size:18px; font-weight:bold;">
+<li><a class="redglow" onClick="recordOutboundLink(this, 'Weather Data', 'Geoba.se - Vienna, Austria'); return false;" target="geobase" href="http://www.geoba.se/location.php?query=2761369&geoid=Y">Vienna, Austria</a>
+</font>
+</ul>
+<p>
+</td></tr></table>
+<br>
+
+</div>
+
+<p>
+<div id="page-block" style="width:900px; left-margin:auto; right-margin:auto; text-align:left;">
+	
+	<p><br><div class="text-shadow-fix">
+		<div id=headerfont style='font-size:20px;'>WEATHER FORECAST</div><br>
+	</div>
+	<div id="forecast" style="height:300px; position:relative;">
+<weatherdata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.met.no/weatherapi/locationforecast/1.9/schema" created="2017-01-25T17:35:21Z">
+   <meta>
+      <model name="EC.GEO.0125" termin="2017-01-25T00:00:00Z" runended="2017-01-25T07:33:30Z" nextrun="2017-01-25T20:00:00Z" from="2017-01-25T18:00:00Z" to="2017-02-04T00:00:00Z" />
+      </meta>
+   <product class="pointData">
+      <time datatype="forecast" from="2017-01-25T18:00:00Z" to="2017-01-25T18:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-2.2"/>
+            <windDirection id="dd" deg="357.7" name="N"/>
+            <windSpeed id="ff" mps="1.8" beaufort="2" name="Svak vind"/>
+            <humidity value="75.9" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1030.8"/>
+            <cloudiness id="NN" percent="74.2"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="74.2"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-6.1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-25T15:00:00Z" to="2017-01-25T18:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="PartlyCloud" number="3"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-25T12:00:00Z" to="2017-01-25T18:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-2.4"/>
+<maxTemperature id="TTT" unit="celsius" value="1.4"/>
+<symbol id="PartlyCloud" number="3"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-25T21:00:00Z" to="2017-01-25T21:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-3.0"/>
+            <windDirection id="dd" deg="331.5" name="NW"/>
+            <windSpeed id="ff" mps="1.2" beaufort="1" name="Flau vind"/>
+            <humidity value="82.8" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1031.6"/>
+            <cloudiness id="NN" percent="86.7"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="26.6"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="83.6"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-5.8"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-25T18:00:00Z" to="2017-01-25T21:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Cloud" number="4"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-25T15:00:00Z" to="2017-01-25T21:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="PartlyCloud" number="3"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T00:00:00Z" to="2017-01-26T00:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-5.2"/>
+            <windDirection id="dd" deg="45.1" name="NE"/>
+            <windSpeed id="ff" mps="2.0" beaufort="2" name="Svak vind"/>
+            <humidity value="93.0" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1032.6"/>
+            <cloudiness id="NN" percent="10.2"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="10.2"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-6.4"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-25T21:00:00Z" to="2017-01-26T00:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-25T18:00:00Z" to="2017-01-26T00:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-5.2"/>
+<maxTemperature id="TTT" unit="celsius" value="-2.1"/>
+<symbol id="PartlyCloud" number="3"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T03:00:00Z" to="2017-01-26T03:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-5.6"/>
+            <windDirection id="dd" deg="147.9" name="SE"/>
+            <windSpeed id="ff" mps="1.6" beaufort="2" name="Svak vind"/>
+            <humidity value="89.6" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1032.2"/>
+            <cloudiness id="NN" percent="5.5"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="4.7"/>
+            <mediumClouds id="MEDIUM" percent="3.1"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-7.4"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T00:00:00Z" to="2017-01-26T03:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-25T21:00:00Z" to="2017-01-26T03:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T06:00:00Z" to="2017-01-26T06:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-6.6"/>
+            <windDirection id="dd" deg="129.6" name="SE"/>
+            <windSpeed id="ff" mps="2.2" beaufort="2" name="Svak vind"/>
+            <humidity value="91.9" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1032.6"/>
+            <cloudiness id="NN" percent="3.1"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.0"/>
+            <mediumClouds id="MEDIUM" percent="3.1"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-8.0"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T03:00:00Z" to="2017-01-26T06:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T00:00:00Z" to="2017-01-26T06:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-7.1"/>
+<maxTemperature id="TTT" unit="celsius" value="-4.7"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T09:00:00Z" to="2017-01-26T09:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-1.8"/>
+            <windDirection id="dd" deg="131.1" name="SE"/>
+            <windSpeed id="ff" mps="2.6" beaufort="2" name="Svak vind"/>
+            <humidity value="68.7" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1033.4"/>
+            <cloudiness id="NN" percent="14.8"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="14.8"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-7.1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T06:00:00Z" to="2017-01-26T09:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="LightCloud" number="2"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T03:00:00Z" to="2017-01-26T09:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T12:00:00Z" to="2017-01-26T12:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="1.3"/>
+            <windDirection id="dd" deg="136.3" name="SE"/>
+            <windSpeed id="ff" mps="4.1" beaufort="3" name="Lett bris"/>
+            <humidity value="55.5" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1032.7"/>
+            <cloudiness id="NN" percent="0.0"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.0"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-7.0"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T09:00:00Z" to="2017-01-26T12:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T06:00:00Z" to="2017-01-26T12:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-6.7"/>
+<maxTemperature id="TTT" unit="celsius" value="1.3"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T15:00:00Z" to="2017-01-26T15:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="0.3"/>
+            <windDirection id="dd" deg="145.3" name="SE"/>
+            <windSpeed id="ff" mps="3.1" beaufort="2" name="Svak vind"/>
+            <humidity value="59.1" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1032.1"/>
+            <cloudiness id="NN" percent="0.0"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.0"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-7.0"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T12:00:00Z" to="2017-01-26T15:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T09:00:00Z" to="2017-01-26T15:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T18:00:00Z" to="2017-01-26T18:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-3.7"/>
+            <windDirection id="dd" deg="122.8" name="SE"/>
+            <windSpeed id="ff" mps="3.9" beaufort="3" name="Lett bris"/>
+            <humidity value="72.0" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1033.0"/>
+            <cloudiness id="NN" percent="7.0"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="7.0"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-8.3"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T15:00:00Z" to="2017-01-26T18:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T12:00:00Z" to="2017-01-26T18:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-3.7"/>
+<maxTemperature id="TTT" unit="celsius" value="1.6"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T21:00:00Z" to="2017-01-26T21:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-4.9"/>
+            <windDirection id="dd" deg="124.6" name="SE"/>
+            <windSpeed id="ff" mps="4.3" beaufort="3" name="Lett bris"/>
+            <humidity value="68.5" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1032.9"/>
+            <cloudiness id="NN" percent="0.0"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.0"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-10.1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T18:00:00Z" to="2017-01-26T21:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T15:00:00Z" to="2017-01-26T21:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-27T00:00:00Z" to="2017-01-27T00:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-4.9"/>
+            <windDirection id="dd" deg="141.5" name="SE"/>
+            <windSpeed id="ff" mps="5.6" beaufort="4" name="Laber bris"/>
+            <humidity value="62.9" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1032.6"/>
+            <cloudiness id="NN" percent="0.0"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.0"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-11.2"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T21:00:00Z" to="2017-01-27T00:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T18:00:00Z" to="2017-01-27T00:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-5.0"/>
+<maxTemperature id="TTT" unit="celsius" value="-3.7"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-27T03:00:00Z" to="2017-01-27T03:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-5.4"/>
+            <windDirection id="dd" deg="135.8" name="SE"/>
+            <windSpeed id="ff" mps="6.2" beaufort="4" name="Laber bris"/>
+            <humidity value="60.4" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1030.8"/>
+            <cloudiness id="NN" percent="0.0"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.0"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-12.3"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-27T00:00:00Z" to="2017-01-27T03:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-26T21:00:00Z" to="2017-01-27T03:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-27T06:00:00Z" to="2017-01-27T06:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-5.6"/>
+            <windDirection id="dd" deg="137.5" name="SE"/>
+            <windSpeed id="ff" mps="7.1" beaufort="4" name="Laber bris"/>
+            <humidity value="67.4" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1030.2"/>
+            <cloudiness id="NN" percent="0.0"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.0"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-11.0"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-27T03:00:00Z" to="2017-01-27T06:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-27T00:00:00Z" to="2017-01-27T06:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-5.6"/>
+<maxTemperature id="TTT" unit="celsius" value="-4.9"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-27T09:00:00Z" to="2017-01-27T09:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-2.5"/>
+            <windDirection id="dd" deg="135.2" name="SE"/>
+            <windSpeed id="ff" mps="7.5" beaufort="4" name="Laber bris"/>
+            <humidity value="63.0" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1030.1"/>
+            <cloudiness id="NN" percent="0.0"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.0"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-8.9"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-27T06:00:00Z" to="2017-01-27T09:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-27T03:00:00Z" to="2017-01-27T09:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-27T12:00:00Z" to="2017-01-27T12:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="1.3"/>
+            <windDirection id="dd" deg="138.8" name="SE"/>
+            <windSpeed id="ff" mps="7.6" beaufort="4" name="Laber bris"/>
+            <humidity value="48.9" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1027.9"/>
+            <cloudiness id="NN" percent="0.0"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.0"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-8.6"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-27T09:00:00Z" to="2017-01-27T12:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-27T06:00:00Z" to="2017-01-27T12:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-5.6"/>
+<maxTemperature id="TTT" unit="celsius" value="1.3"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-27T15:00:00Z" to="2017-01-27T15:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="0.2"/>
+            <windDirection id="dd" deg="136.4" name="SE"/>
+            <windSpeed id="ff" mps="6.4" beaufort="4" name="Laber bris"/>
+            <humidity value="55.5" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1027.2"/>
+            <cloudiness id="NN" percent="0.0"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.0"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-8.0"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-27T12:00:00Z" to="2017-01-27T15:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-27T09:00:00Z" to="2017-01-27T15:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-27T18:00:00Z" to="2017-01-27T18:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-3.1"/>
+            <windDirection id="dd" deg="134.7" name="SE"/>
+            <windSpeed id="ff" mps="6.3" beaufort="4" name="Laber bris"/>
+            <humidity value="74.0" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1027.1"/>
+            <cloudiness id="NN" percent="0.0"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.0"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-7.4"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-27T15:00:00Z" to="2017-01-27T18:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-27T12:00:00Z" to="2017-01-27T18:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-3.1"/>
+<maxTemperature id="TTT" unit="celsius" value="1.6"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-27T21:00:00Z" to="2017-01-27T21:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-4.9"/>
+            <windDirection id="dd" deg="131.8" name="SE"/>
+            <windSpeed id="ff" mps="6.8" beaufort="4" name="Laber bris"/>
+            <humidity value="85.3" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1026.9"/>
+            <cloudiness id="NN" percent="0.0"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.0"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-7.2"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-27T18:00:00Z" to="2017-01-27T21:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-27T15:00:00Z" to="2017-01-27T21:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-28T00:00:00Z" to="2017-01-28T00:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-6.0"/>
+            <windDirection id="dd" deg="132.1" name="SE"/>
+            <windSpeed id="ff" mps="6.4" beaufort="4" name="Laber bris"/>
+            <humidity value="87.5" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1026.0"/>
+            <cloudiness id="NN" percent="0.0"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.0"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-8.1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-27T21:00:00Z" to="2017-01-28T00:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-27T18:00:00Z" to="2017-01-28T00:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-6.0"/>
+<maxTemperature id="TTT" unit="celsius" value="-3.1"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-28T06:00:00Z" to="2017-01-28T06:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-7.1"/>
+            <windDirection id="dd" deg="131.8" name="SE"/>
+            <windSpeed id="ff" mps="5.4" beaufort="3" name="Lett bris"/>
+            <humidity value="87.1" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1025.4"/>
+            <cloudiness id="NN" percent="26.6"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="26.6"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-9.2"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-28T00:00:00Z" to="2017-01-28T06:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-7.1"/>
+<maxTemperature id="TTT" unit="celsius" value="-6.0"/>
+<symbol id="LightCloud" number="2"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-28T12:00:00Z" to="2017-01-28T12:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="0.5"/>
+            <windDirection id="dd" deg="140.7" name="SE"/>
+            <windSpeed id="ff" mps="6.2" beaufort="4" name="Laber bris"/>
+            <humidity value="52.1" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1023.9"/>
+            <cloudiness id="NN" percent="0.0"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.0"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-8.6"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-28T06:00:00Z" to="2017-01-28T12:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-7.1"/>
+<maxTemperature id="TTT" unit="celsius" value="0.5"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-28T18:00:00Z" to="2017-01-28T18:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-2.0"/>
+            <windDirection id="dd" deg="138.3" name="SE"/>
+            <windSpeed id="ff" mps="5.8" beaufort="4" name="Laber bris"/>
+            <humidity value="65.1" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1023.5"/>
+            <cloudiness id="NN" percent="1.6"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="1.6"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-8.0"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-28T12:00:00Z" to="2017-01-28T18:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-2.0"/>
+<maxTemperature id="TTT" unit="celsius" value="1.6"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-29T00:00:00Z" to="2017-01-29T00:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-4.4"/>
+            <windDirection id="dd" deg="134.7" name="SE"/>
+            <windSpeed id="ff" mps="5.9" beaufort="4" name="Laber bris"/>
+            <humidity value="70.1" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1024.0"/>
+            <cloudiness id="NN" percent="0.0"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.0"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-9.3"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-28T18:00:00Z" to="2017-01-29T00:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-4.4"/>
+<maxTemperature id="TTT" unit="celsius" value="-2.0"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-29T06:00:00Z" to="2017-01-29T06:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-5.9"/>
+            <windDirection id="dd" deg="128.9" name="SE"/>
+            <windSpeed id="ff" mps="4.6" beaufort="3" name="Lett bris"/>
+            <humidity value="70.9" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1025.1"/>
+            <cloudiness id="NN" percent="14.1"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.0"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="14.1"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-10.7"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-29T00:00:00Z" to="2017-01-29T06:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-5.9"/>
+<maxTemperature id="TTT" unit="celsius" value="-4.4"/>
+<symbol id="LightCloud" number="2"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-29T12:00:00Z" to="2017-01-29T12:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="1.7"/>
+            <windDirection id="dd" deg="143.1" name="SE"/>
+            <windSpeed id="ff" mps="4.5" beaufort="3" name="Lett bris"/>
+            <humidity value="37.2" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1024.7"/>
+            <cloudiness id="NN" percent="11.7"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.0"/>
+            <mediumClouds id="MEDIUM" percent="10.2"/>
+            <highClouds id="HIGH" percent="7.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-11.7"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-29T06:00:00Z" to="2017-01-29T12:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-6.0"/>
+<maxTemperature id="TTT" unit="celsius" value="1.7"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-29T18:00:00Z" to="2017-01-29T18:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-2.6"/>
+            <windDirection id="dd" deg="147.7" name="SE"/>
+            <windSpeed id="ff" mps="3.9" beaufort="3" name="Lett bris"/>
+            <humidity value="52.7" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1025.4"/>
+            <cloudiness id="NN" percent="28.1"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.0"/>
+            <mediumClouds id="MEDIUM" percent="28.1"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-11.3"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-29T12:00:00Z" to="2017-01-29T18:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-2.6"/>
+<maxTemperature id="TTT" unit="celsius" value="2.3"/>
+<symbol id="LightCloud" number="2"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-30T00:00:00Z" to="2017-01-30T00:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-5.9"/>
+            <windDirection id="dd" deg="149.9" name="SE"/>
+            <windSpeed id="ff" mps="2.1" beaufort="2" name="Svak vind"/>
+            <humidity value="75.4" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1026.3"/>
+            <cloudiness id="NN" percent="10.9"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.8"/>
+            <mediumClouds id="MEDIUM" percent="9.4"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-9.9"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-29T18:00:00Z" to="2017-01-30T00:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-5.9"/>
+<maxTemperature id="TTT" unit="celsius" value="-2.6"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-30T06:00:00Z" to="2017-01-30T06:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-7.2"/>
+            <windDirection id="dd" deg="134.2" name="SE"/>
+            <windSpeed id="ff" mps="2.0" beaufort="2" name="Svak vind"/>
+            <humidity value="89.1" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1026.0"/>
+            <cloudiness id="NN" percent="0.0"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.0"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-9.1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-30T00:00:00Z" to="2017-01-30T06:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-7.3"/>
+<maxTemperature id="TTT" unit="celsius" value="-5.8"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-30T12:00:00Z" to="2017-01-30T12:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="1.8"/>
+            <windDirection id="dd" deg="134.4" name="SE"/>
+            <windSpeed id="ff" mps="3.4" beaufort="3" name="Lett bris"/>
+            <humidity value="48.0" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1023.8"/>
+            <cloudiness id="NN" percent="50.8"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.0"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="50.8"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-8.3"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-30T06:00:00Z" to="2017-01-30T12:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-7.3"/>
+<maxTemperature id="TTT" unit="celsius" value="1.8"/>
+<symbol id="PartlyCloud" number="3"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-30T18:00:00Z" to="2017-01-30T18:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-1.3"/>
+            <windDirection id="dd" deg="126.5" name="SE"/>
+            <windSpeed id="ff" mps="3.9" beaufort="3" name="Lett bris"/>
+            <humidity value="65.6" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1022.0"/>
+            <cloudiness id="NN" percent="100.0"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.0"/>
+            <mediumClouds id="MEDIUM" percent="100.0"/>
+            <highClouds id="HIGH" percent="99.2"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-7.2"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-30T12:00:00Z" to="2017-01-30T18:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-1.5"/>
+<maxTemperature id="TTT" unit="celsius" value="2.5"/>
+<symbol id="Cloud" number="4"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-31T00:00:00Z" to="2017-01-31T00:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-3.2"/>
+            <windDirection id="dd" deg="130.9" name="SE"/>
+            <windSpeed id="ff" mps="2.5" beaufort="2" name="Svak vind"/>
+            <humidity value="76.5" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1020.5"/>
+            <cloudiness id="NN" percent="99.2"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="1.6"/>
+            <mediumClouds id="MEDIUM" percent="99.2"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-7.0"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-30T18:00:00Z" to="2017-01-31T00:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-3.6"/>
+<maxTemperature id="TTT" unit="celsius" value="-1.2"/>
+<symbol id="Cloud" number="4"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-31T06:00:00Z" to="2017-01-31T06:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-3.0"/>
+            <windDirection id="dd" deg="167.0" name="S"/>
+            <windSpeed id="ff" mps="1.9" beaufort="2" name="Svak vind"/>
+            <humidity value="85.0" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1018.8"/>
+            <cloudiness id="NN" percent="82.8"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="69.5"/>
+            <mediumClouds id="MEDIUM" percent="64.8"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-5.4"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-31T00:00:00Z" to="2017-01-31T06:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="2.0"/>
+<minTemperature id="TTT" unit="celsius" value="-3.2"/>
+<maxTemperature id="TTT" unit="celsius" value="-2.6"/>
+<symbol id="SnowSun" number="8"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-31T12:00:00Z" to="2017-01-31T12:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="4.9"/>
+            <windDirection id="dd" deg="320.8" name="NW"/>
+            <windSpeed id="ff" mps="6.2" beaufort="4" name="Laber bris"/>
+            <humidity value="60.3" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1019.3"/>
+            <cloudiness id="NN" percent="85.2"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="85.2"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-2.4"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-31T06:00:00Z" to="2017-01-31T12:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-3.2"/>
+<maxTemperature id="TTT" unit="celsius" value="4.9"/>
+<symbol id="PartlyCloud" number="3"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-31T18:00:00Z" to="2017-01-31T18:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="0.3"/>
+            <windDirection id="dd" deg="320.1" name="NW"/>
+            <windSpeed id="ff" mps="2.8" beaufort="2" name="Svak vind"/>
+            <humidity value="84.5" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1021.6"/>
+            <cloudiness id="NN" percent="86.7"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="86.7"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-2.2"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-31T12:00:00Z" to="2017-01-31T18:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="0.3"/>
+<maxTemperature id="TTT" unit="celsius" value="5.0"/>
+<symbol id="Cloud" number="4"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-01T00:00:00Z" to="2017-02-01T00:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-1.4"/>
+            <windDirection id="dd" deg="358.0" name="N"/>
+            <windSpeed id="ff" mps="1.8" beaufort="2" name="Svak vind"/>
+            <humidity value="93.1" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1022.0"/>
+            <cloudiness id="NN" percent="51.6"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="51.6"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-2.6"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-01-31T18:00:00Z" to="2017-02-01T00:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-1.4"/>
+<maxTemperature id="TTT" unit="celsius" value="0.3"/>
+<symbol id="PartlyCloud" number="3"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-01T06:00:00Z" to="2017-02-01T06:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-4.6"/>
+            <windDirection id="dd" deg="349.5" name="N"/>
+            <windSpeed id="ff" mps="1.8" beaufort="2" name="Svak vind"/>
+            <humidity value="93.9" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1022.3"/>
+            <cloudiness id="NN" percent="6.2"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="6.2"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-5.7"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-01T00:00:00Z" to="2017-02-01T06:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-4.6"/>
+<maxTemperature id="TTT" unit="celsius" value="-1.4"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-01T12:00:00Z" to="2017-02-01T12:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="2.1"/>
+            <windDirection id="dd" deg="101.0" name="E"/>
+            <windSpeed id="ff" mps="1.6" beaufort="2" name="Svak vind"/>
+            <humidity value="56.9" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1020.5"/>
+            <cloudiness id="NN" percent="0.0"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.0"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-5.8"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-01T06:00:00Z" to="2017-02-01T12:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-5.3"/>
+<maxTemperature id="TTT" unit="celsius" value="2.1"/>
+<symbol id="Sun" number="1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-01T18:00:00Z" to="2017-02-01T18:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-1.9"/>
+            <windDirection id="dd" deg="118.5" name="SE"/>
+            <windSpeed id="ff" mps="4.4" beaufort="3" name="Lett bris"/>
+            <humidity value="71.8" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1019.9"/>
+            <cloudiness id="NN" percent="58.6"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="58.6"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-6.6"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-01T12:00:00Z" to="2017-02-01T18:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-1.9"/>
+<maxTemperature id="TTT" unit="celsius" value="2.6"/>
+<symbol id="PartlyCloud" number="3"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-02T00:00:00Z" to="2017-02-02T00:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-1.9"/>
+            <windDirection id="dd" deg="131.6" name="SE"/>
+            <windSpeed id="ff" mps="5.7" beaufort="4" name="Laber bris"/>
+            <humidity value="81.0" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1019.7"/>
+            <cloudiness id="NN" percent="96.9"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="84.4"/>
+            <mediumClouds id="MEDIUM" percent="96.1"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-5.0"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-01T18:00:00Z" to="2017-02-02T00:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-2.0"/>
+<maxTemperature id="TTT" unit="celsius" value="-1.5"/>
+<symbol id="Cloud" number="4"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-02T06:00:00Z" to="2017-02-02T06:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-2.9"/>
+            <windDirection id="dd" deg="124.7" name="SE"/>
+            <windSpeed id="ff" mps="5.3" beaufort="3" name="Lett bris"/>
+            <humidity value="83.7" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1020.0"/>
+            <cloudiness id="NN" percent="99.2"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="83.6"/>
+            <mediumClouds id="MEDIUM" percent="98.4"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-5.6"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-02T00:00:00Z" to="2017-02-02T06:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-3.0"/>
+<maxTemperature id="TTT" unit="celsius" value="-1.9"/>
+<symbol id="Cloud" number="4"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-02T12:00:00Z" to="2017-02-02T12:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="0.5"/>
+            <windDirection id="dd" deg="135.4" name="SE"/>
+            <windSpeed id="ff" mps="6.0" beaufort="4" name="Laber bris"/>
+            <humidity value="72.3" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1018.7"/>
+            <cloudiness id="NN" percent="86.7"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="68.0"/>
+            <mediumClouds id="MEDIUM" percent="82.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-4.2"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-02T06:00:00Z" to="2017-02-02T12:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-3.0"/>
+<maxTemperature id="TTT" unit="celsius" value="0.5"/>
+<symbol id="Cloud" number="4"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-02T18:00:00Z" to="2017-02-02T18:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-0.4"/>
+            <windDirection id="dd" deg="140.0" name="SE"/>
+            <windSpeed id="ff" mps="4.2" beaufort="3" name="Lett bris"/>
+            <humidity value="78.6" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1018.0"/>
+            <cloudiness id="NN" percent="95.3"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="51.6"/>
+            <mediumClouds id="MEDIUM" percent="92.2"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-3.9"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-02T12:00:00Z" to="2017-02-02T18:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-0.4"/>
+<maxTemperature id="TTT" unit="celsius" value="2.1"/>
+<symbol id="Cloud" number="4"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-03T00:00:00Z" to="2017-02-03T00:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-1.4"/>
+            <windDirection id="dd" deg="130.5" name="SE"/>
+            <windSpeed id="ff" mps="6.2" beaufort="4" name="Laber bris"/>
+            <humidity value="77.9" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1015.8"/>
+            <cloudiness id="NN" percent="89.1"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="69.5"/>
+            <mediumClouds id="MEDIUM" percent="84.4"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-5.0"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-02T18:00:00Z" to="2017-02-03T00:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-1.4"/>
+<maxTemperature id="TTT" unit="celsius" value="-0.4"/>
+<symbol id="Cloud" number="4"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-03T06:00:00Z" to="2017-02-03T06:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-1.4"/>
+            <windDirection id="dd" deg="133.0" name="SE"/>
+            <windSpeed id="ff" mps="6.4" beaufort="4" name="Laber bris"/>
+            <humidity value="88.1" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1013.2"/>
+            <cloudiness id="NN" percent="99.2"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="99.2"/>
+            <mediumClouds id="MEDIUM" percent="70.3"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-3.3"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-03T00:00:00Z" to="2017-02-03T06:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-1.7"/>
+<maxTemperature id="TTT" unit="celsius" value="-1.4"/>
+<symbol id="Cloud" number="4"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-03T12:00:00Z" to="2017-02-03T12:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="0.6"/>
+            <windDirection id="dd" deg="124.6" name="SE"/>
+            <windSpeed id="ff" mps="6.5" beaufort="4" name="Laber bris"/>
+            <humidity value="79.7" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1011.4"/>
+            <cloudiness id="NN" percent="100.0"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="100.0"/>
+            <mediumClouds id="MEDIUM" percent="52.3"/>
+            <highClouds id="HIGH" percent="22.7"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-2.7"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-03T06:00:00Z" to="2017-02-03T12:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-1.4"/>
+<maxTemperature id="TTT" unit="celsius" value="0.6"/>
+<symbol id="Cloud" number="4"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-03T18:00:00Z" to="2017-02-03T18:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-0.2"/>
+            <windDirection id="dd" deg="118.8" name="SE"/>
+            <windSpeed id="ff" mps="4.3" beaufort="3" name="Lett bris"/>
+            <humidity value="88.6" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1012.6"/>
+            <cloudiness id="NN" percent="99.2"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="98.4"/>
+            <mediumClouds id="MEDIUM" percent="76.6"/>
+            <highClouds id="HIGH" percent="0.0"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-2.1"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-03T12:00:00Z" to="2017-02-03T18:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-0.2"/>
+<maxTemperature id="TTT" unit="celsius" value="0.6"/>
+<symbol id="Cloud" number="4"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-04T00:00:00Z" to="2017-02-04T00:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <temperature id="TTT" unit="celsius" value="-0.5"/>
+            <windDirection id="dd" deg="108.1" name="E"/>
+            <windSpeed id="ff" mps="2.5" beaufort="2" name="Svak vind"/>
+            <humidity value="97.7" unit="percent"/>
+            <pressure id="pr" unit="hPa" value="1012.8"/>
+            <cloudiness id="NN" percent="96.9"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="96.9"/>
+            <mediumClouds id="MEDIUM" percent="19.5"/>
+            <highClouds id="HIGH" percent="0.8"/>
+            <dewpointTemperature id="TD" unit="celsius" value="-1.0"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2017-02-03T18:00:00Z" to="2017-02-04T00:00:00Z">
+         <location altitude="166" latitude="48.1167" longitude="16.5667">
+            <precipitation unit="mm" value="0.0"/>
+<minTemperature id="TTT" unit="celsius" value="-0.6"/>
+<maxTemperature id="TTT" unit="celsius" value="-0.2"/>
+<symbol id="Cloud" number="4"/>
+         </location>
+      </time>
+   </product>
+</weatherdata> 
+
+
+
+<p style="position:absolute; right:0; top:-10px; font-size:11px; margin-top:-20px;"><b>As of 8:33 am 1/25/17 CET</b></p>
+	
+	<div id="forecast-module">	
+	 
+<table style="width:900px; border-right:1px solid #08078B">
+<tr>
+
+					<td valign=top align=center class="dataline1" onmouseover="className='dataline1 hoveron';" onmouseout="className=' dataline1 hoveroff';"  onclick="openDetail('2501');" style="cursor:pointer;">
+					<div class=datahead1>Wednesday</div>
+					<div><img src="../gr/symbols/32.png" width="70" /></div>
+					<div class=datahead2 style="height:35px; line-height:15px;">Partly Cloudy</div>
+					<div style="font-size:24px;"><b>28&deg;</b></div>
+					<div style="font-size:24px;"><b>22&deg;</b></div>
+					</td>
+					
+					<td valign=top align=center class="dataline1" onmouseover="className='dataline1 hoveron';" onmouseout="className=' dataline1 hoveroff';"  onclick="openDetail('2601');" style="cursor:pointer;">
+					<div class=datahead1>Thursday</div>
+					<div><img src="../gr/symbols/1.png" width="70" /></div>
+					<div class=datahead2 style="height:35px; line-height:15px;">Clear</div>
+					<div style="font-size:24px;"><b>34&deg;</b></div>
+					<div style="font-size:24px;"><b>20&deg;</b></div>
+					</td>
+					
+					<td valign=top align=center class="dataline1" onmouseover="className='dataline1 hoveron';" onmouseout="className=' dataline1 hoveroff';"  onclick="openDetail('2701');" style="cursor:pointer;">
+					<div class=datahead1>Friday</div>
+					<div><img src="../gr/symbols/1.png" width="70" /></div>
+					<div class=datahead2 style="height:35px; line-height:15px;">Clear</div>
+					<div style="font-size:24px;"><b>34&deg;</b></div>
+					<div style="font-size:24px;"><b>21&deg;</b></div>
+					</td>
+					
+					<td valign=top align=center class="dataline1" onmouseover="className='dataline1 hoveron';" onmouseout="className=' dataline1 hoveroff';"  onclick="openDetail('2801');" style="cursor:pointer;">
+					<div class=datahead1>Saturday</div>
+					<div><img src="../gr/symbols/1.png" width="70" /></div>
+					<div class=datahead2 style="height:35px; line-height:15px;">Clear</div>
+					<div style="font-size:24px;"><b>33&deg;</b></div>
+					<div style="font-size:24px;"><b>19&deg;</b></div>
+					</td>
+					
+					<td valign=top align=center class="dataline1" onmouseover="className='dataline1 hoveron';" onmouseout="className=' dataline1 hoveroff';"  onclick="openDetail('2901');" style="cursor:pointer;">
+					<div class=datahead1>Sunday</div>
+					<div><img src="../gr/symbols/1.png" width="70" /></div>
+					<div class=datahead2 style="height:35px; line-height:15px;">Clear</div>
+					<div style="font-size:24px;"><b>35&deg;</b></div>
+					<div style="font-size:24px;"><b>21&deg;</b></div>
+					</td>
+					
+					<td valign=top align=center class="dataline1" onmouseover="className='dataline1 hoveron';" onmouseout="className=' dataline1 hoveroff';"  onclick="openDetail('3001');" style="cursor:pointer;">
+					<div class=datahead1>Monday</div>
+					<div><img src="../gr/symbols/3.png" width="70" /></div>
+					<div class=datahead2 style="height:35px; line-height:15px;">Partly Cloudy</div>
+					<div style="font-size:24px;"><b>35&deg;</b></div>
+					<div style="font-size:24px;"><b>19&deg;</b></div>
+					</td>
+					
+					<td valign=top align=center class="dataline1" onmouseover="className='dataline1 hoveron';" onmouseout="className=' dataline1 hoveroff';"  onclick="openDetail('3101');" style="cursor:pointer;">
+					<div class=datahead1>Tuesday</div>
+					<div><img src="../gr/symbols/3.png" width="70" /></div>
+					<div class=datahead2 style="height:35px; line-height:15px;">Partly Cloudy</div>
+					<div style="font-size:24px;"><b>41&deg;</b></div>
+					<div style="font-size:24px;"><b>27&deg;</b></div>
+					</td>
+					
+</tr>
+</table>
+	
+	</div>
+	
+	<div class="forecast-detail" style="display:none; cursor:pointer; position:relative; clear:both; height:200px; border-right:1px solid #08078B;"  id="2501">
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 EVENING" onclick="closeDetail('2501');" >
+					<div class=datahead1>Wednesday - Evening</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/32.png" width="70" /></td><td><span class=datahead2>Partly Cloudy</span><br><span style="font-size:24px;">28&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: N at 4 mph 
+							<br>
+							Humidity: 75.9%
+							<br>
+							Pressure: 40.61 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 74.2%
+						</div>
+					</div>
+					</div>	
+				
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 NIGHT" onclick="closeDetail('2501');" >
+					<div class=datahead1>Wednesday - Night</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/30.png" width="70" /></td><td><span class=datahead2>Clear</span><br><span style="font-size:24px;">23&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: NE at 4.5 mph 
+							<br>
+							Humidity: 93.0%
+							<br>
+							Pressure: 40.68 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 10.2%
+						</div>
+					</div>
+					</div>	
+				</div><div class="forecast-detail" style="display:none; cursor:pointer; position:relative; clear:both; height:200px; border-right:1px solid #08078B;"  id="2601">
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 MORNING" onclick="closeDetail('2601');" >
+					<div class=datahead1>Thursday - Morning</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/1.png" width="70" /></td><td><span class=datahead2>Clear</span><br><span style="font-size:24px;">20&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: SE at 4.9 mph 
+							<br>
+							Humidity: 91.9%
+							<br>
+							Pressure: 40.68 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 3.1%
+						</div>
+					</div>
+					</div>	
+				
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 AFTERNOON" onclick="closeDetail('2601');" >
+					<div class=datahead1>Thursday - Afternoon</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/1.png" width="70" /></td><td><span class=datahead2>Clear</span><br><span style="font-size:24px;">34&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: SE at 9.2 mph 
+							<br>
+							Humidity: 55.5%
+							<br>
+							Pressure: 40.69 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 0.0%
+						</div>
+					</div>
+					</div>	
+				
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 EVENING" onclick="closeDetail('2601');" >
+					<div class=datahead1>Thursday - Evening</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/30.png" width="70" /></td><td><span class=datahead2>Clear</span><br><span style="font-size:24px;">25&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: SE at 8.7 mph 
+							<br>
+							Humidity: 72.0%
+							<br>
+							Pressure: 40.70 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 7.0%
+						</div>
+					</div>
+					</div>	
+				
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 NIGHT" onclick="closeDetail('2601');" >
+					<div class=datahead1>Thursday - Night</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/30.png" width="70" /></td><td><span class=datahead2>Clear</span><br><span style="font-size:24px;">23&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: SE at 12.5 mph 
+							<br>
+							Humidity: 62.9%
+							<br>
+							Pressure: 40.68 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 0.0%
+						</div>
+					</div>
+					</div>	
+				</div><div class="forecast-detail" style="display:none; cursor:pointer; position:relative; clear:both; height:200px; border-right:1px solid #08078B;"  id="2701">
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 MORNING" onclick="closeDetail('2701');" >
+					<div class=datahead1>Friday - Morning</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/1.png" width="70" /></td><td><span class=datahead2>Clear</span><br><span style="font-size:24px;">22&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: SE at 15.9 mph 
+							<br>
+							Humidity: 67.4%
+							<br>
+							Pressure: 40.59 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 0.0%
+						</div>
+					</div>
+					</div>	
+				
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 AFTERNOON" onclick="closeDetail('2701');" >
+					<div class=datahead1>Friday - Afternoon</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/1.png" width="70" /></td><td><span class=datahead2>Clear</span><br><span style="font-size:24px;">34&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: SE at 17 mph 
+							<br>
+							Humidity: 48.9%
+							<br>
+							Pressure: 40.50 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 0.0%
+						</div>
+					</div>
+					</div>	
+				
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 EVENING" onclick="closeDetail('2701');" >
+					<div class=datahead1>Friday - Evening</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/30.png" width="70" /></td><td><span class=datahead2>Clear</span><br><span style="font-size:24px;">26&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: SE at 14.1 mph 
+							<br>
+							Humidity: 74.0%
+							<br>
+							Pressure: 40.47 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 0.0%
+						</div>
+					</div>
+					</div>	
+				
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 NIGHT" onclick="closeDetail('2701');" >
+					<div class=datahead1>Friday - Night</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/30.png" width="70" /></td><td><span class=datahead2>Clear</span><br><span style="font-size:24px;">21&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: SE at 14.3 mph 
+							<br>
+							Humidity: 87.5%
+							<br>
+							Pressure: 40.42 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 0.0%
+						</div>
+					</div>
+					</div>	
+				</div><div class="forecast-detail" style="display:none; cursor:pointer; position:relative; clear:both; height:200px; border-right:1px solid #08078B;"  id="2801">
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 MORNING" onclick="closeDetail('2801');" >
+					<div class=datahead1>Saturday - Morning</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/2.png" width="70" /></td><td><span class=datahead2>Light Clouds</span><br><span style="font-size:24px;">19&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: SE at 12.1 mph 
+							<br>
+							Humidity: 87.1%
+							<br>
+							Pressure: 40.40 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 26.6%
+						</div>
+					</div>
+					</div>	
+				
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 AFTERNOON" onclick="closeDetail('2801');" >
+					<div class=datahead1>Saturday - Afternoon</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/1.png" width="70" /></td><td><span class=datahead2>Clear</span><br><span style="font-size:24px;">33&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: SE at 13.9 mph 
+							<br>
+							Humidity: 52.1%
+							<br>
+							Pressure: 40.34 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 0.0%
+						</div>
+					</div>
+					</div>	
+				
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 EVENING" onclick="closeDetail('2801');" >
+					<div class=datahead1>Saturday - Evening</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/30.png" width="70" /></td><td><span class=datahead2>Clear</span><br><span style="font-size:24px;">28&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: SE at 13 mph 
+							<br>
+							Humidity: 65.1%
+							<br>
+							Pressure: 40.33 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 1.6%
+						</div>
+					</div>
+					</div>	
+				
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 NIGHT" onclick="closeDetail('2801');" >
+					<div class=datahead1>Saturday - Night</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/30.png" width="70" /></td><td><span class=datahead2>Clear</span><br><span style="font-size:24px;">24&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: SE at 13.2 mph 
+							<br>
+							Humidity: 70.1%
+							<br>
+							Pressure: 40.35 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 0.0%
+						</div>
+					</div>
+					</div>	
+				</div><div class="forecast-detail" style="display:none; cursor:pointer; position:relative; clear:both; height:200px; border-right:1px solid #08078B;"  id="2901">
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 MORNING" onclick="closeDetail('2901');" >
+					<div class=datahead1>Sunday - Morning</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/2.png" width="70" /></td><td><span class=datahead2>Light Clouds</span><br><span style="font-size:24px;">21&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: SE at 10.3 mph 
+							<br>
+							Humidity: 70.9%
+							<br>
+							Pressure: 40.39 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 14.1%
+						</div>
+					</div>
+					</div>	
+				
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 AFTERNOON" onclick="closeDetail('2901');" >
+					<div class=datahead1>Sunday - Afternoon</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/1.png" width="70" /></td><td><span class=datahead2>Clear</span><br><span style="font-size:24px;">35&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: SE at 10.1 mph 
+							<br>
+							Humidity: 37.2%
+							<br>
+							Pressure: 40.37 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 11.7%
+						</div>
+					</div>
+					</div>	
+				
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 EVENING" onclick="closeDetail('2901');" >
+					<div class=datahead1>Sunday - Evening</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/31.png" width="70" /></td><td><span class=datahead2>Light Clouds</span><br><span style="font-size:24px;">27&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: SE at 8.7 mph 
+							<br>
+							Humidity: 52.7%
+							<br>
+							Pressure: 40.40 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 28.1%
+						</div>
+					</div>
+					</div>	
+				
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 NIGHT" onclick="closeDetail('2901');" >
+					<div class=datahead1>Sunday - Night</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/30.png" width="70" /></td><td><span class=datahead2>Clear</span><br><span style="font-size:24px;">21&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: SE at 4.7 mph 
+							<br>
+							Humidity: 75.4%
+							<br>
+							Pressure: 40.44 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 10.9%
+						</div>
+					</div>
+					</div>	
+				</div><div class="forecast-detail" style="display:none; cursor:pointer; position:relative; clear:both; height:200px; border-right:1px solid #08078B;"  id="3001">
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 MORNING" onclick="closeDetail('3001');" >
+					<div class=datahead1>Monday - Morning</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/1.png" width="70" /></td><td><span class=datahead2>Clear</span><br><span style="font-size:24px;">19&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: SE at 4.5 mph 
+							<br>
+							Humidity: 89.1%
+							<br>
+							Pressure: 40.42 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 0.0%
+						</div>
+					</div>
+					</div>	
+				
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 AFTERNOON" onclick="closeDetail('3001');" >
+					<div class=datahead1>Monday - Afternoon</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/3.png" width="70" /></td><td><span class=datahead2>Partly Cloudy</span><br><span style="font-size:24px;">35&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: SE at 7.6 mph 
+							<br>
+							Humidity: 48.0%
+							<br>
+							Pressure: 40.34 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 50.8%
+						</div>
+					</div>
+					</div>	
+				
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 EVENING" onclick="closeDetail('3001');" >
+					<div class=datahead1>Monday - Evening</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/4.png" width="70" /></td><td><span class=datahead2>Cloudy</span><br><span style="font-size:24px;">30&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: SE at 8.7 mph 
+							<br>
+							Humidity: 65.6%
+							<br>
+							Pressure: 40.27 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 100.0%
+						</div>
+					</div>
+					</div>	
+				
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 NIGHT" onclick="closeDetail('3001');" >
+					<div class=datahead1>Monday - Night</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/4.png" width="70" /></td><td><span class=datahead2>Cloudy</span><br><span style="font-size:24px;">26&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: SE at 5.6 mph 
+							<br>
+							Humidity: 76.5%
+							<br>
+							Pressure: 40.21 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 99.2%
+						</div>
+					</div>
+					</div>	
+				</div><div class="forecast-detail" style="display:none; cursor:pointer; position:relative; clear:both; height:200px; border-right:1px solid #08078B;"  id="3101">
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 MORNING" onclick="closeDetail('3101');" >
+					<div class=datahead1>Tuesday - Morning</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/8.png" width="70" /></td><td><span class=datahead2>Sunny + Light Snow</span><br><span style="font-size:24px;">27&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: S at 4.3 mph 
+							<br>
+							Humidity: 85.0%
+							<br>
+							Pressure: 40.14 in Hg
+							<br>
+							Precipitation: 0.08"
+							<br>
+							Cloud Cover: 82.8%
+						</div>
+					</div>
+					</div>	
+				
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 AFTERNOON" onclick="closeDetail('3101');" >
+					<div class=datahead1>Tuesday - Afternoon</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/3.png" width="70" /></td><td><span class=datahead2>Partly Cloudy</span><br><span style="font-size:24px;">41&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: NW at 13.9 mph 
+							<br>
+							Humidity: 60.3%
+							<br>
+							Pressure: 40.16 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 85.2%
+						</div>
+					</div>
+					</div>	
+				
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 EVENING" onclick="closeDetail('3101');" >
+					<div class=datahead1>Tuesday - Evening</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/4.png" width="70" /></td><td><span class=datahead2>Cloudy</span><br><span style="font-size:24px;">33&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: NW at 6.3 mph 
+							<br>
+							Humidity: 84.5%
+							<br>
+							Pressure: 40.25 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 86.7%
+						</div>
+					</div>
+					</div>	
+				
+					<div style="padding:0 10px; width:225px; cursor:pointer; position:absolute; top:0; height:200px; " class="dataline1 NIGHT" onclick="closeDetail('3101');" >
+					<div class=datahead1>Tuesday - Night</div>
+					<div>
+						<table style="width:225px;">
+							<tr><td><img src="../gr/symbols/32.png" width="70" /></td><td><span class=datahead2>Partly Cloudy</span><br><span style="font-size:24px;">29&deg;</span></td></tr>
+						</table>
+						<div class=datahead2 style="text-align:left; width:225px; font-size:12px;">
+							Wind: N at 4 mph 
+							<br>
+							Humidity: 93.1%
+							<br>
+							Pressure: 40.27 in Hg
+							<br>
+							Precipitation: 0.00"
+							<br>
+							Cloud Cover: 51.6%
+						</div>
+					</div>
+					</div>	
+				</div>
+	
+<script>	
+function openDetail(id)
+{
+	$('#' + id).slideDown('slow');
+	$('#forecast-module').slideUp('slow');
+}
+function closeDetail(id)
+{
+	$('#' + id).slideUp('slow');
+	$('#forecast-module').slideDown('slow');
+}
+
+</script>
+
+<style type="text/css">
+	td.hoveron { background-color: #C2E0EA; }
+	td.hoveroff { background-color: #FFFFFF;}
+	.MORNING{left:0px;}
+	.AFTERNOON{left:225px;}
+	.EVENING{left:450px;}
+	.NIGHT{left:675px;}
+</style>
+<p align=right>
+<div id="forecastcredits">Forecast data from The Norwegian Meteorological Institute; Current conditions data from the National Weather Service<br>All historical data and normals &copy; Weatherbase</div>
+</p>	</div>
+</div>
+<!-- end dharker weather test -->
+
+
+
+
+
+
+
+
+
+</div>
+</div>
+
+
+
+
+<!-- Content Block -->
+
+</div>
+<div id="aghub-content" style="clear:both;">
+<div id="page-block" style="width:900px; left-margin:20px; right-margin:0px; text-align:left; padding-left:30px; padding-bottom:30px; margin-top:150px;">
+<p><br><div class="text-shadow-fix">
+		<div id=headerfont style='font-size:20px;'>STORIES FROM OUR PARTNERS</div><br>
+</div>
+
+
+<div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script> 
+</div></div>
+ 
+<!-- // Content Block -->
+
+<div id="page-block style="width:980px; left-margin:auto; right-margin:auto; margin-top:60px; margin-bottom:100px; padding-bottom:50px;">
+<p><br>
+<div id="footer-ads-full" style="text-align:center;">
+
+ 
+
+</div>
+<p><br><p><br>
+
+ 
+</div>
+
+</span>
+
+<div id="push"></div> <!-- Added this tag to keep footer at bottom -->
+
+</div>
+
+
+<div id="footer" style="font-size:14px; line-height:20px;">
+<center>
+<p>
+<table border=0 cellpadding=0 cellspacing=0 width=950>
+<tr><td width=25>&nbsp;</td>
+<td valign=top width=175 align=left>
+
+<div id=subheaderfont style="color:#ffffff; text-shadow:none;">FEATURES</div><br>
+<ul class="wxlist">
+<li><a href="/compare.php3" onClick="recordOutboundLink(this, 'Footer', 'Compare Cities'); return false;">Compare Cities</a><br>
+<li><a href="/vacation/step1.php3" onClick="recordOutboundLink(this, 'Footer', 'Vacation Finder'); return false;">Vacation Finder</a><br>
+<li><a href="/reference.php3" onClick="recordOutboundLink(this, 'Footer', 'Reference'); return false;">Weather Reference</a><br>
+<li><a href="/search/glossary.php3" onClick="recordOutboundLink(this, 'Footer', 'Glossary'); return false;">Weather Glossary</a><br>
+<li><a href="/reference.php3" onClick="recordOutboundLink(this, 'Footer', 'Climate Calculators'); return false;">Climate Calculators</a><br>
+</ul>
+
+</td><td valign=top width=175 align=left>
+
+<div id=subheaderfont style="color:#ffffff; text-shadow:none;">ABOUT US</div><br>
+<ul class="wxlist">
+<li><a href="/about.php3" onClick="recordOutboundLink(this, 'Footer', 'About Us'); return false;">About</a> | 
+<a href="/press.php3" onClick="recordOutboundLink(this, 'Footer', 'Press'); return false;">Press</a><br>
+<li><a href="/business.php3" onClick="recordOutboundLink(this, 'Footer', 'Licensing'); return false;">Data Licensing</a><br>
+<li><a href="/business.php3" onClick="recordOutboundLink(this, 'Footer', 'WeatherAlpha'); return false;">Weather Consulting</a><br>
+<li><a href="https://weatherbase.uservoice.com" onClick="recordOutboundLink(this, 'Footer', 'Contact'); return false;">Contact Us</a><br>
+<li><a href="/privacy.php3" onClick="recordOutboundLink(this, 'Footer', 'Privacy'); return false;">Privacy Policy</a><br>
+</ul>
+
+</td><td valign=top width=175 align=left>
+
+<div id=subheaderfont style="color:#ffffff; text-shadow:none;">MOBILE</div><br>
+<table border=0 cellpadding=0 cellspacing=0>
+<tr><td valign=top>&nbsp; <a style="background:none; padding: 0px 0px 0px 0px;" href="#" onmouseover="iphonefooter.src='/gr/iphone-flare.png'" onmouseout="iphonefooter.src='/gr/iphone.png'" onClick="recordOutboundLink(this, 'Footer', 'iPhone'); window.open('http://itunes.apple.com/us/app/weatherbase-app/id484826913?mt=8'); return false;"><img name="iphonefooter" src="/gr/iphone.png" width="30" height="30" border=0></a></td><td valign=middle>&nbsp; <a href="#" onClick="recordOutboundLink(this, 'Footer', 'iPhone'); window.open('http://itunes.apple.com/us/app/weatherbase-app/id484826913?mt=8'); return false;">iPhone / iPad</a></td></tr>
+<tr><td valign=top>&nbsp; <a style="background:none; padding: 0px 0px 0px 0px;" href="#" onmouseover="kmlfooter.src='/gr/googleearth-flare.png'" onmouseout="kmlfooter.src='/gr/googleearth.png'" onClick="recordOutboundLink(this, 'Footer', 'Google Earth'); window.open('/weatherbase.kml'); return false;"><img name="kmlfooter" src="/gr/googleearth.png" width="30" height="30" border=0></a></td><td valign=middle>&nbsp; <a href="#" onClick="recordOutboundLink(this, 'Footer', 'Google Earth'); window.open('/weatherbase.kml'); return false;">Google Earth</a></td></tr>
+<tr><td valign=top>&nbsp; <a style="background:none; padding: 0px 0px 0px 0px;" href="#" onmouseover="windowsfooter.src='/gr/weatherstats-flare.png'" onmouseout="windowsfooter.src='/gr/weatherstats.png'" onClick="recordOutboundLink(this, 'Footer', 'Windows Phone'); window.open('http://windowsphone.com/s?appid=00918e7e-6b8b-4976-8782-5760ced74cc4'); return false;"><img name="windowsfooter" src="/gr/weatherstats.png" width="30" height="30" border=0></a></td><td valign=middle>&nbsp; <a href="#" onClick="recordOutboundLink(this, 'Footer', 'Windows Phone'); window.open('http://windowsphone.com/s?appid=00918e7e-6b8b-4976-8782-5760ced74cc4'); return false;">Windows Phone</a></td></tr>
+</table>
+
+</td><td valign=top width=175 align=left>
+
+<div id=subheaderfont style="color:#ffffff; text-shadow:none;">FOLLOW US</div><br>
+<table border=0 cellpadding=0 cellspacing=0>
+<tr><td valign=top>&nbsp; <a style="background:none; padding: 0px 0px 0px 0px;" href="#" onmouseover="facebook.src='/gr/fb-flare.png'" onmouseout="facebook.src='/gr/fb.png'" onClick="recordOutboundLink(this, 'Footer', 'facebook.com'); window.open('http://www.facebook.com/weatherbase'); return false;"><img name="facebook" src="/gr/fb.png" width="30" height="30" border=0></a></td><td valign=middle>&nbsp; <a href="#" onClick="recordOutboundLink(this, 'Footer', 'facebook.com'); window.open('http://www.facebook.com/weatherbase'); return false;">Facebook</a></td></tr>
+<tr><td valign=top>&nbsp; <a style="background:none; padding: 0px 0px 0px 0px;" href="#" onmouseover="twitter.src='/gr/tw-flare.png'" onmouseout="twitter.src='/gr/tw.png'" onClick="recordOutboundLink(this, 'Footer', 'twitter.com'); window.open('https://twitter.com/#!/wxbase'); return false;"><img name="twitter" src="/gr/tw.png" width="30" height="30" border=0></a></td><td valign=middle>&nbsp; <a href="#" onClick="recordOutboundLink(this, 'Footer', 'twitter.com'); window.open('https://twitter.com/#!/wxbase'); return false;">Twitter</a></td></tr>
+</table>
+
+
+</td><td valign=top width=225 align=left>
+
+<div id=subheaderfont style="color:#ffffff; text-shadow:none;">OTHER COOL SITES</div><br>
+<ul class="wxlist" style="line-height:18px;">
+<li><a href="http://deali.sh/" onClick="recordOutboundLink(this, 'Footer', 'Deali.sh'); return false;">Deali.sh - <font style="font-size:11px;">Flash Sales</font></a><br>
+<li><a href="http://www.geoba.se/" onClick="recordOutboundLink(this, 'Footer', 'Geoba.se'); return false;">Geoba.se - <font style="font-size:11px;">City Facts</font></a><br>
+<li><a href="http://www.factba.se/" onClick="recordOutboundLink(this, 'Footer', 'Factba.se'); return false;">Factba.se - <font style="font-size:11px;">Country Facts</font></a><br>
+<li><a href="http://www.dealchicken.com/" onClick="recordOutboundLink(this, 'Footer', 'DealChicken'); return false;">DealChicken - <font style="font-size:11px;">Buy. Save. Yeah.</font></a><br>
+<li><a href="http://www.weatheralpha.com/" onClick="recordOutboundLink(this, 'Footer', 'WeatherAlpha'); return false;">WeatherAlpha - <font style="font-size:11px;">Big brains.</font></a><br>
+</ul>
+
+</td></tr>
+<tr><td colspan=6 align=right>
+<font style="font-size:13px;">&copy; Copyright 2017  <a onClick="recordOutboundLink(this, 'Footer', 'CantyMedia', ''); return false;" href="http://www.cantymedia.com/" target="dealish">CantyMedia</a></font>
+</td></tr></table>
+</center>
+<p>
+</div>
+
+<script type="text/javascript" src="/js/hoverIntent.js"></script>
+<script type="text/javascript" src="/js/jquery.tabSlideOut.v1.3.js"></script>
+<script>
+$(function(){
+	$('.slide-out-div').tabSlideOut({
+	tabHandle: '.handle', 
+	pathToTabImage: '/gr/feedback.gif', 
+	imageHeight: '122px',
+	imageWidth: '40px', 
+	tabLocation: 'left', 
+	speed: 300, 
+	action: 'click', 
+	topPos: '130px', 
+	leftPos: '20px', 
+	fixedPosition: true
+	});
+
+	$('.slide-out-div').css('display','block');
+});
+
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'none')
+          e.style.display = 'block';
+       else
+          e.style.display = 'none';
+    }
+    function toggle_off(id) {
+       var f = document.getElementById(id);
+          f.style.display = 'none';
+    }
+
+
+
+if (typeof console == "undefined") {
+this.console = {log: function() {}};
+} 
+function goToByScroll(id){
+$('html,body').animate({scrollTop: $("#"+id).offset().top},'slow');
+}
+
+if (document.images)
+{
+preload_image_object = new Image();
+image_url = new Array();
+image_url[0] = "/gr/fb-flare.png";
+image_url[1] = "/gr/tw-flare.png";
+image_url[2] = "/gr/googleearth-flare.png";
+image_url[3] = "/gr/iphone-flare.png";
+image_url[4] = "/gr/f-flare.png";
+image_url[5] = "/gr/c-flare.png";
+image_url[6] = "/gr/arrowleft-flare.png";
+image_url[7] = "/gr/arrowright-flare.png";
+var i = 0;
+for(i=0; i<=7; i++) 
+preload_image_object.src = image_url[i];
+}
+</script> 
+	 
+
+
+
+<script type="text/javascript" src="/js/jquery.fancybox.pack.js?v=2.1.5"></script>
+<script type="text/javascript" src="/js/jquery.mousewheel-3.0.4.pack.js"></script>
+<script type="text/javascript" src="/js/jquery.color.js"></script>
+<script type="text/javascript" src="//maps.google.com/maps/api/js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+
+
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	$("#imagepop").fancybox({
+    	helpers:  {
+        	overlay: {
+      			locked: false
+   			}
+	    },	
+		openEffect		: 'elastic',
+		closeEffect		: 'elastic'
+	});
+
+	$(".chartpop").fancybox({
+    	helpers:  {
+        	overlay: {
+      			locked: false
+   			}
+	    },	
+        autoSize     	: false,
+        openEffect		: 'elastic',
+		closeEffect		: 'elastic',
+		width           : 565,
+		height          : 350,
+		scrolling       : 'no',
+		iframe: {
+			scrolling : 'no'
+		}
+	});
+
+	$("#mappop").fancybox({
+	    helpers:  {
+    	    title : {
+        	    type : 'inside'
+			},
+        	overlay: {
+      			locked: false
+   			}
+	  	  },
+	  	openEffect		: 'elastic',
+		closeEffect		: 'elastic',
+		afterLoad		: function(){
+			initialize_sidemap('48.116665','16.566668','Vienna');
+		}
+	});
+
+	
+	$('#all_locations').change(function(){
+		if($('#all_locations:checked').length == '1'){
+			setListeners();
+			fetchMarkers();
+		}else{
+			activeMarker = null;
+			clearMarkers();
+			google.maps.event.clearListeners(map, 'idle');
+		}
+	});
+
+	$('#all_locations').removeAttr('checked');
+	
+	
+});
+</script>
+
+
+ 
+<script type="text/javascript" src="/js/PrintUrl.js"></script>
+
+
+<!-- dharker weather functions -->
+
+
+
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script></body>
+</html> 
+
+

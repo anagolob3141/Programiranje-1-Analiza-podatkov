@@ -1,0 +1,8 @@
+Mesto,mesec 
+Tirane, februar
+Shkoder, februar
+Barc, avgust
+Durres, december
+Ceredzias, februar
+Vlore, december
+Boric i Math, februar
