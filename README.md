@@ -1,3 +1,8 @@
-# programiranje-1
+# Tvoje najljubše mesto
+##Seminarska naloga pri predmetu programiranje 1
 
-Moj prvi repozitorij na Githubu.
+Seminarska naloga analizira vremenske podatke Europe.
+
+Vir ppodatkov:
+*http://www.weatherbase.com/weather/country.php3?r=EUR&regionname=Europe
+
