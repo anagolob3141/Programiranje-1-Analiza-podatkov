@@ -4,5 +4,5 @@
 Seminarska naloga analizira vremenske podatke Europe.
 
 Vir podatkov:
-*http://www.weatherbase.com/weather/country.php3?r=EUR&regionname=Europe
+* http://www.weatherbase.com/weather/country.php3?r=EUR&regionname=Europe
 
