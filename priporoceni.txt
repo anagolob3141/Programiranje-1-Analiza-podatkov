@@ -1,8 +1,10 @@
 Mesto,mesec 
-Tirane, februar
-Shkoder, februar
-Barc, avgust
-Durres, december
-Ceredzias, februar
-Vlore, december
+Vlore, februar
+Durres, junij
 Boric i Math, februar
+Shkoder, februar
+Korce, januar
+Fier, februar
+Fier, februarjunij
+Likaj, februar
+Likaj, februarjunij

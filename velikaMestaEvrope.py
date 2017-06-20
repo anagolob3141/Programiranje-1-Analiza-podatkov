@@ -59,7 +59,6 @@ def glavna_mesta_drzav():
     return slovarVelikihMest
 
 
-
 #-----------------------------------------------------------------------------------------------------
 
 #2.) KORAK: Priprava parametrov, ki so potrebni za dostop do vseh spletnih strani, ki jih želimo zajeti.
@@ -334,3 +333,5 @@ def pozeni_VelikaMestaEvrope():
     pretvori_v_csv(podatki2)
 
 #pozeni_VelikaMestaEvrope()
+
+
