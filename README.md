@@ -1,7 +1,5 @@
-
+# Vremenska analiza europskih mest
 ### Seminarska naloga pri predmetu programiranje 1
-
-Vremenska analiza europskih mest
 
 ## Zajem podatkov
 podatki so bili zajeti iz spletnih strani https://www.countries-ofthe-world.com/capitals-of-europe.html ter http://www.weatherbase.com/weather/country.php3?r=EUR&regionname=Europe.
