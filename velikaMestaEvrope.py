@@ -1,5 +1,6 @@
 import re
 import os
+import numpy
 from pip._vendor import requests
 
 
@@ -50,8 +51,8 @@ def glavna_mesta_drzav():
         Prestolnica = popravi_zapis(najdeni.group('prestolnica'))
         Drzava = popravi_zapis(najdeni.group('drzava'))
 
-
-        slovarVelikihMest[Drzava] = Prestolnica
+        if Drzava != 'Turkey':
+            slovarVelikihMest[Drzava] = Prestolnica
 
     #Popravi izjeme:
     slovarVelikihMest['Monaco'] = 'Monte-Carlo'
@@ -127,7 +128,6 @@ def zajemi_drugo(parametri_drzav, slovarPrestolnic):
             if drzava == drzava2 and drzava != 'United-Kingdom':
 
                 ime = slovarPrestolnic[drzava] + '-' + drzava
-                #print(ime)
 
                 naslov = r'http://www.weatherbase.com/weather/city.php3?c=' + parameter
                 r = requests.get(naslov)
@@ -147,7 +147,8 @@ def ustvari_mapo():
 
     if not os.path.exists('velikaMestaEvrope'):
         os.mkdir('velikaMestaEvrope')
-
+    if not os.path.exists('CSVdatoteke'):
+        os.mkdir('CSVdatoteke')
 
 
 #-------------------------
@@ -206,12 +207,14 @@ def najdi_podatke(besedilo):
     iscemo = re.compile(r'<meta name="city" content="(?P<mesto>\D*?)">.*?'
                         r'<meta name="country" content="(?P<drzava>\D*?)">.*?'
                         r'http://www.weatherbase.com/weather/weather.php3\?s=(?P<id>\d+)&cityname=.*?'
-                        r'type=Average.Temperature&units=Fahrenheit.*?symbol=F&data=(?P<temperature>.*?)"><img'
+                        r'type=Average.Temperature&units=Fahrenheit.*?symbol=F&data=(?P<temperature>.*?)"><img.*?'
+                        r'type=Average.Precipitation&units.*?symbol=in.*?data=(?P<padavine>.*?)"><img'
     , flags=re.DOTALL)
 
     for najdeni in re.finditer(iscemo, besedilo):
+        sez = [najdeni.group('mesto'),najdeni.group('drzava'),najdeni.group('id'),najdeni.group('temperature'), najdeni.group('padavine')]
 
-        return [[najdeni.group('mesto'),najdeni.group('drzava'),najdeni.group('id'),najdeni.group('temperature')]]
+        return [[najdeni.group('mesto'),najdeni.group('drzava'),najdeni.group('id'),najdeni.group('temperature'), najdeni.group('padavine')]]
 
 #----------------------------------------------
 
@@ -226,7 +229,10 @@ def poisciPodatke(imena_datotek):
     for ime in imena_datotek:
 
         with open(ime + '.txt', 'r') as f:
-            podatki += najdi_podatke(f.read())
+            try:
+                podatki += najdi_podatke(f.read())
+            except:
+                print('Napaka')
 
     return podatki
 
@@ -253,20 +259,18 @@ def iz_fahrenheit_to_celzij(niz):
 
     return ze_pretvorjeni
 
+
 #------------------------------------
 
-def povprecje(sez):
+def minMaksRazlika(sez):
 
-    '''
-    Sprejme seznam nizov stevil in vrne njihovo povprecno vrednost.
-    '''
+    stevila = list(map(float, sez))
+    Min = min(stevila)
+    Maks = max(stevila)
+    razlika = numpy.std(stevila)
 
-    povprecna_vrednost = 0
+    return [str(Min), str(Maks), str(round(razlika,2))]
 
-    for stevilo in sez:
-        povprecna_vrednost += float(stevilo)
-
-    return str(povprecna_vrednost // len(sez))
 
 #-------------------------------------------------------------
 
@@ -276,62 +280,80 @@ def uredi_podatke(podatki):
     V vhodnih podatkih popravi temperature in doda njihovo letno povprecje.
     '''
 
-    urejeniPodatki = list()
+    urejeniTemperature = list()
+    urejeniPadavine = list()
+    drzavaPrestolnica = list()
+    MinMaksRazlika = list()
 
     for mesto in podatki:
 
         temperature = iz_fahrenheit_to_celzij(mesto[3])
-        povprecnaLetna = povprecje(temperature)
-        urejeniPodatki += [mesto[:3] + temperature + [povprecnaLetna]]
+        padavine = mesto[4].split(',')
+        padavin1 = list(map(float, padavine))
+        povprecneLetneP = numpy.mean(list(map(float, padavine)))
+        povprecnaLetnaT = numpy.mean(list(map(float, temperature)))
+        urejeniTemperature += [[mesto[2]] + temperature + [str(round(povprecnaLetnaT,2))]]
+        urejeniPadavine += [[mesto[2]] + padavine + [str(round(povprecneLetneP))]]
+        drzavaPrestolnica += [mesto[:3]]
+        MinMaksRazlika += [[mesto[2]] + minMaksRazlika(temperature) + minMaksRazlika(padavine)]
 
-    return urejeniPodatki
+    return urejeniPadavine, urejeniTemperature, drzavaPrestolnica, MinMaksRazlika
 
 
 
 #-------------------------------------
 
-def pretvori_v_csv(podatki):
+def pretvori_v_csv(podatki, naslovnaVrstica, ime):
 
     '''
     Podatke iz seznama seznamov zapise v csv datoteko.
     '''
 
-    with open('podatkiVelikaMesta.txt','w') as csvFile:
-        naslovnaVrstica = 'MESTO,Drzava,sifra,januar,februar,marec,april,maj,junij,julij,avgust,' \
-        'september,oktober,november,december,LETNO POVPRECJE' + '\n'
+    with open(ime,'w') as csvFile:
+
         csvFile.write(naslovnaVrstica)
         for vrstica in podatki:
             csvFile.write(','.join(vrstica) + '\n')
 
     csvFile.close()
 
-
-
 #------------------------------------------
 
 def pozeni_VelikaMestaEvrope():
 
-    Prestolnice = glavna_mesta_drzav()
-    #print(Prestolnice)
+    pot = os.getcwd() + '\\CSVdatoteke\\'
 
-    parametri = najdi_drzave()
-    #print(parametri)
+    if os.path.isfile( pot + 'Padavine.txt') and os.path.isfile( pot + 'Temperature.txt') and os.path.isfile( pot + 'PrestolniceDrzav.txt'):
 
-    vsi_parametri = zajemi_drugo(parametri, Prestolnice)
-    #print(vsi_parametri)
+        print('Datoteke že obstajajo.')
 
-    ustvari_mapo()
-    imena_dat = shranjevanje(vsi_parametri)
+    else:
+
+        Prestolnice = glavna_mesta_drzav()
+        #print(Prestolnice)
+
+        parametri = najdi_drzave()
+        #print(parametri)
+
+        vsi_parametri = zajemi_drugo(parametri, Prestolnice)
+        #print(vsi_parametri)
+
+        ustvari_mapo()
+        imena_dat = shranjevanje(vsi_parametri)
 
 
-    podatki1 = poisciPodatke(imena_dat)
-    #print(podatki1)
+        podatki1 = poisciPodatke(imena_dat)
+        #print(podatki1)
 
-    podatki2 = uredi_podatke(podatki1)
-    #print(podatki2)
+        padavine, temperature, drzavePrestolnice, MinMaksRazlika = uredi_podatke(podatki1)
 
-    pretvori_v_csv(podatki2)
+        #print(padavine, temperature, drzavePrestolnice)
+        pot = os.getcwd() + '\\CSVdatoteke\\'
+        pretvori_v_csv( drzavePrestolnice, 'MESTO,Drzava,sifra' + '\n', pot + 'PrestolniceDrzav.txt' )
+        pretvori_v_csv( temperature, 'sifra,januar,februar,marec,april,maj,junij,julij,avgust,september,oktober,november,december,letno povprecje temperatur'+ '\n', pot + 'Temperature.txt')
+        pretvori_v_csv( padavine, 'sifra,januar,februar,marec,april,maj,junij,julij,avgust,september,oktober,november,december,letno povprecje padavin'+ '\n', pot + 'Padavine.txt')
+        pretvori_v_csv( MinMaksRazlika, 'sifra,minimalna T,maksimalna T,standardni odklon mesecnih temperatur od letnega povprecja,minimum P,maksimum P,standardni odklon mesecnih padavin od letnega povprecja'+ '\n', pot + 'Ekstremi.txt')
 
-#pozeni_VelikaMestaEvrope()
+pozeni_VelikaMestaEvrope()
 
 

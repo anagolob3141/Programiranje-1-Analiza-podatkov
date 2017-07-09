@@ -1,10 +1,8 @@
 Mesto,mesec 
-Vlore, februar
-Durres, junij
-Boric i Math, februar
-Shkoder, februar
-Korce, januar
-Fier, februar
-Fier, februarjunij
-Likaj, februar
-Likaj, februarjunij
+Vlore, oktober
+Durres, oktober
+Likaj, oktober
+Likaj, oktoberfebruar
+Fier, oktober
+Fier, oktoberfebruar
+Korce, maj
