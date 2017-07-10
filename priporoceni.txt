@@ -1,8 +1,12 @@
 Mesto,mesec 
-Vlore, oktober
-Durres, oktober
-Likaj, oktober
-Likaj, oktoberfebruar
-Fier, oktober
-Fier, oktoberfebruar
-Korce, maj
+Forrastanya, julij
+Forrastanya, julijmaj
+Nagykanizsa, julij
+Nagykanizsa, julijmaj
+Felsohalom, maj
+Mosonmagyarovar, julij
+Mosonmagyarovar, julijmaj
+Gyor, julij
+Miskolc, maj
+Szombathely, maj
+Megyeri Puszta, julij

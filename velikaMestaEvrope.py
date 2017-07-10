@@ -323,7 +323,7 @@ def pozeni_VelikaMestaEvrope():
 
     pot = os.getcwd() + '\\CSVdatoteke\\'
 
-    if os.path.isfile( pot + 'Padavine.txt') and os.path.isfile( pot + 'Temperature.txt') and os.path.isfile( pot + 'PrestolniceDrzav.txt'):
+    if os.path.isfile( pot + 'Padavine.csv') and os.path.isfile( pot + 'Temperature.csv') and os.path.isfile( pot + 'PrestolniceDrzav.csv'):
 
         print('Datoteke že obstajajo.')
 
@@ -349,11 +349,18 @@ def pozeni_VelikaMestaEvrope():
 
         #print(padavine, temperature, drzavePrestolnice)
         pot = os.getcwd() + '\\CSVdatoteke\\'
-        pretvori_v_csv( drzavePrestolnice, 'MESTO,Drzava,sifra' + '\n', pot + 'PrestolniceDrzav.txt' )
-        pretvori_v_csv( temperature, 'sifra,januar,februar,marec,april,maj,junij,julij,avgust,september,oktober,november,december,letno povprecje temperatur'+ '\n', pot + 'Temperature.txt')
-        pretvori_v_csv( padavine, 'sifra,januar,februar,marec,april,maj,junij,julij,avgust,september,oktober,november,december,letno povprecje padavin'+ '\n', pot + 'Padavine.txt')
-        pretvori_v_csv( MinMaksRazlika, 'sifra,minimalna T,maksimalna T,standardni odklon mesecnih temperatur od letnega povprecja,minimum P,maksimum P,standardni odklon mesecnih padavin od letnega povprecja'+ '\n', pot + 'Ekstremi.txt')
+        pretvori_v_csv( drzavePrestolnice, 'MESTO,Drzava,sifra' + '\n', pot + 'PrestolniceDrzav.csv' )
+        pretvori_v_csv( temperature, 'sifra,januar,februar,marec,april,maj,junij,julij,avgust,september,oktober,november,december,letno povprecje temperatur'+ '\n', pot + 'Temperature.csv')
+        pretvori_v_csv( padavine, 'sifra,januar,februar,marec,april,maj,junij,julij,avgust,september,oktober,november,december,letno povprecje padavin'+ '\n', pot + 'Padavine.csv')
+        pretvori_v_csv( MinMaksRazlika, 'sifra,minimalna T,maksimalna T,standardni odklon mesecnih temperatur od letnega povprecja,minimum P,maksimum P,standardni odklon mesecnih padavin od letnega povprecja'+ '\n', pot + 'Ekstremi.csv')
 
 pozeni_VelikaMestaEvrope()
+
+def beri_podatke(ime_datoteke, st):
+    podatki = list()
+    with open(ime_datoteke, 'r') as dat:
+        for vrstica in dat:
+            podatki += [vrstica[:-1].split(',')[st]]
+    return(podatki[1:])
 
 
