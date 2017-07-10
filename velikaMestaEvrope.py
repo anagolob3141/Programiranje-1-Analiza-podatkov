@@ -357,10 +357,20 @@ def pozeni_VelikaMestaEvrope():
 pozeni_VelikaMestaEvrope()
 
 def beri_podatke(ime_datoteke, st):
-    podatki = list()
-    with open(ime_datoteke, 'r') as dat:
-        for vrstica in dat:
-            podatki += [vrstica[:-1].split(',')[st]]
-    return(podatki[1:])
+    kljuci = list()
+    dat1 = open('CSVdatoteke\\PrestolniceDrzav.csv', 'r')
+    vrstice = dat1.readlines()[1:]
+    for vrstica in vrstice:
+        kljuci += [vrstica[:-1].split(',')[0]]
+
+    podatki = dict()
+    dat2 = open(ime_datoteke, 'r')
+    vrstice2 = dat2.readlines()[1:]
+    for vrstica, kljuc in zip(vrstice2, kljuci):
+        podatki[kljuc] = vrstica[:-1].split(',')[st]
+    return(podatki)
+
+
+
 
 
