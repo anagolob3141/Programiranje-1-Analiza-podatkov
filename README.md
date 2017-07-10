@@ -16,6 +16,10 @@ Zajeti podatki so:
 2. Izračunati standardni odklon temperatur med meseci in preveriti ali obstaja soodvisnost med nihanji temperature in količine padavin
 3. Podatke prikazati na zemljevidu
 
+### Dodakek k analizi:
+
+V skripti analiza2Del.ipynb se nahaja še dodatek k analizi, v katerem lahko uporabnih sam preko GUI izbira ped podatki. V tem delu podameznik izbere eno izmed Europskih držav, nato pa še mesec in željeno temperaturo. Program mu nato predstavi mesta, ki najbolj ustrezajo njegovemu izboru.
+
 ## Knjižnjice, ki jih je potrebno namestiti pred zagonom programa:
 * requests
 * numpy
